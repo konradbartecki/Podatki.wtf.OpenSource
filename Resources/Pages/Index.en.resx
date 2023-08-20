@@ -1,0 +1,368 @@
+﻿<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <data name="Header" xml:space="preserve">
+        <value>podatki.wtf 🤷‍♂</value>
+    </data>
+    <data name="Daily" xml:space="preserve">
+        <value>daily</value>
+    </data>
+    <data name="Hourly" xml:space="preserve">
+        <value>hourly</value>
+    </data>
+    <data name="Monthly" xml:space="preserve">
+        <value>monthly</value>
+    </data>
+    <data name="Yearly" xml:space="preserve">
+        <value>yearly</value>
+    </data>
+    <data name="Subheader_Part1" xml:space="preserve">
+        <value>Tax calculator for new {0} reforms available!</value>
+    </data>
+    <data name="Subheader_Part2" xml:space="preserve">
+        <value>Get to know how much you will exactly get as a contractor.</value>
+    </data>
+    <data name="ZUS_Rate" xml:space="preserve">
+        <value>ZUS Rate</value>
+    </data>
+    <data name="TaxYear_2022_v1" xml:space="preserve">
+        <value>2022 - New Polish Order v1</value>
+    </data>
+    <data name="TaxYear_2022_v2" xml:space="preserve">
+        <value>2022 - New Polish Order v2</value>
+    </data>
+    <data name="PIT_Type" xml:space="preserve">
+        <value>PIT type</value>
+    </data>
+    <data name="New" xml:space="preserve">
+        <value>New</value>
+    </data>
+    <data name="Net" xml:space="preserve">
+        <value>Net</value>
+    </data>
+    <data name="TaxYear" xml:space="preserve">
+        <value>Tax year</value>
+    </data>
+    <data name="TaxYear_2022_v2_description" xml:space="preserve">
+        <value>Exact calculations for a new version of Polish Order (from 1st July 2022) are not yet well known.</value>
+    </data>
+    <data name="Lump_Sum" xml:space="preserve">
+        <value>Lump sum</value>
+    </data>
+    <data name="PIT_Rate_Scaled" xml:space="preserve">
+        <value>🔰 Scaled {0}</value>
+    </data>
+    <data name="Author" xml:space="preserve">
+        <value>Author</value>
+    </data>
+    <data name="Sick_Insurance" xml:space="preserve">
+        <value>Sick insurance</value>
+    </data>
+    <data name="Statistics" xml:space="preserve">
+        <value>Statistics</value>
+    </data>
+    <data name="ZUS_Rate_None" xml:space="preserve">
+        <value>Without ZUS</value>
+    </data>
+    <data name="ZUS_Rate_Preferential" xml:space="preserve">
+        <value>Preferential (2 years)</value>
+    </data>
+    <data name="ZUS_Rate_StartRelief" xml:space="preserve">
+        <value>Only medical (6 mo.) / UoP</value>
+    </data>
+    <data name="ZUS_Rate_ZusPlus" xml:space="preserve">
+        <value>ZUS Plus (until 120k/year)</value>
+    </data>
+    <data name="ZUS_Rate_Full" xml:space="preserve">
+        <value>Normal (big ZUS)</value>
+    </data>
+    <data name="TaxYear_IsPreview" xml:space="preserve">
+        <value>Full ZUS rates are not yet known. Provided values are approximate. Assumed {0} for private avg. income in 4th quarter.</value>
+    </data>
+    <data name="Other_Costs" xml:space="preserve">
+        <value>Other costs</value>
+    </data>
+    <data name="Other_Costs_Description" xml:space="preserve">
+        <value>Addtional costs (excluding VAT) related to conducting of business. For example phone bills, accountant.</value>
+    </data>
+    <data name="Paid" xml:space="preserve">
+        <value>Paid</value>
+    </data>
+    <data name="SeeExplaination" xml:space="preserve">
+        <value>See explaination...</value>
+    </data>
+    <data name="ShowAdvanced" xml:space="preserve">
+        <value>Show more options</value>
+    </data>
+    <data name="ShowSimplified" xml:space="preserve">
+        <value>Show less options</value>
+    </data>
+    <data name="DaysOff_Description" xml:space="preserve">
+        <value>When comparing to UoP you need to assume 26 days off and optionally additional 10 sick days off.</value>
+    </data>
+    <data name="DaysOff_AreUnpaid" xml:space="preserve">
+        <value>Are your days off unpaid?</value>
+    </data>
+    <data name="DaysOff_ArePaid" xml:space="preserve">
+        <value>Are your days off paid?</value>
+    </data>
+    <data name="DaysOff" xml:space="preserve">
+        <value>days off</value>
+    </data>
+    <data name="ChangeToMonthly" xml:space="preserve">
+        <value>Change to monthly rate</value>
+    </data>
+    <data name="ChangeToHourly" xml:space="preserve">
+        <value>Change to hourly rate</value>
+    </data>
+    <data name="Unpaid" xml:space="preserve">
+        <value>Unpaid</value>
+    </data>
+    <data name="ZUS_Rate_ZusPlus_PreviousYear" xml:space="preserve">
+        <value>ZUS Plus - Data for previous year</value>
+    </data>
+    <data name="Net_Income" xml:space="preserve">
+        <value>Net Income</value>
+    </data>
+    <data name="PLN_perYear" xml:space="preserve">
+        <value>PLN/year</value>
+    </data>
+    <data name="Activity_Conducted_For" xml:space="preserve">
+        <value>Activity conducted for</value>
+    </data>
+    <data name="Days_Per_Year" xml:space="preserve">
+        <value>days/year</value>
+    </data>
+    <data name="ZUS_Plus_Description" xml:space="preserve">
+        <value>In order to calculate ZUS+ data for previous year such as days activity was conducted and net income are needed. 
+               With this option selected calculation for health contribution and work fund (Fundusz Pracy) is done on the terms of normal ZUS insurance.
+               This option also has minimal and maximal cap. E.g. year 2021 min = 647,59 zł and max = 1457,49 zł</value>
+    </data>
+    <data name="Taxation_Type" xml:space="preserve">
+        <value>Taxation type</value>
+    </data>
+    <data name="Weekly_Working_Hours" xml:space="preserve">
+        <value>Weekly working hours</value>
+    </data>
+    <data name="Hours_Per_Week" xml:space="preserve">
+        <value>h/week</value>
+    </data>
+    <data name="Base_ZUS_Rate" xml:space="preserve">
+        <value>Base ZUS Rate</value>
+    </data>
+    <data name="ZUS_Rate_Range" xml:space="preserve">
+        <value>from 60% to 250%</value>
+    </data>
+    <data name="Pay_ZUS_While_Sick_Info" xml:space="preserve">
+        <value>Pay ZUS while sick</value>
+    </data>
+    <data name="Sick_Days_Per_Year" xml:space="preserve">
+        <value>Days on sick leave</value>
+    </data>
+    <data name="Net_Monthly" xml:space="preserve">
+        <value>Net monthly</value>
+    </data>
+    <data name="Real_Net_Per_Month" xml:space="preserve">
+        <value>After tax per month</value>
+    </data>
+    <data name="Net_Hourly" xml:space="preserve">
+        <value>Net hourly</value>
+    </data>
+    <data name="Net_Daily" xml:space="preserve">
+        <value>Net daily</value>
+    </data>
+    <data name="PIT_Per_Month" xml:space="preserve">
+        <value>PIT per month</value>
+    </data>
+    <data name="ZUS_Per_Month" xml:space="preserve">
+        <value>ZUS per month</value>
+    </data>
+    <data name="Net_Yearly" xml:space="preserve">
+        <value>Net yearly</value>
+    </data>
+    <data name="TaxYear_Tooltip" xml:space="preserve">
+        <value>Yearly working days without weekends and public holidays</value>
+    </data>
+    <data name="Total_Working_Days" xml:space="preserve">
+        <value>Total working days in {0}</value>
+    </data>
+    <data name="Your_Work_Time" xml:space="preserve">
+        <value>Your work time</value>
+    </data>
+    <data name="On_Sick_Salary_Total" xml:space="preserve">
+        <value>Total sick leave allowance for {0} days</value>
+    </data>
+    <data name="Tax_Name" xml:space="preserve">
+        <value>Tax name</value>
+    </data>
+    <data name="Tax_Base" xml:space="preserve">
+        <value>Base</value>
+    </data>
+    <data name="Tax_Percent" xml:space="preserve">
+        <value>Percent</value>
+    </data>
+    <data name="Tax_Amount" xml:space="preserve">
+        <value>Tax amount</value>
+    </data>
+    <data name="Tax_Relief_Name" xml:space="preserve">
+        <value>Relief name</value>
+    </data>
+    <data name="Real_Net_Per_Hour" xml:space="preserve">
+        <value>After tax per hour</value>
+    </data>
+    <data name="Real_Net_Per_Day" xml:space="preserve">
+        <value>After tax per day</value>
+    </data>
+    <data name="Real_Net_Per_Month2" xml:space="preserve">
+        <value>After tax per month</value>
+    </data>
+    <data name="Real_Net_Per_Year" xml:space="preserve">
+        <value>After tax per year</value>
+    </data>
+    <data name="Yearly_Costs_Deductible" xml:space="preserve">
+        <value>Yearly costs to be deducted</value>
+    </data>
+    <data name="Taxable_Base_Amount" xml:space="preserve">
+        <value>Taxable base</value>
+    </data>
+    <data name="Yearly_Tax_Total_Burden" xml:space="preserve">
+        <value>Yearly tax total rate (ZUS+PIT+Costs)</value>
+    </data>
+    <data name="Total_Effective_Rate_Percent" xml:space="preserve">
+        <value>Effective total tax rate (ZUS+PIT+Costs)</value>
+    </data>
+    <data name="Yearly_PIT" xml:space="preserve">
+        <value>PIT yearly</value>
+    </data>
+    <data name="PIT_Effective_Rate_Percent" xml:space="preserve">
+        <value>PIT effective rate</value>
+    </data>
+    <data name="Pension_Contribution" xml:space="preserve">
+        <value>Pension contribution</value>
+    </data>
+    <data name="Disability_Pension_Contribution" xml:space="preserve">
+        <value>Disability pension contribution</value>
+    </data>
+    <data name="Accident_Contribution" xml:space="preserve">
+        <value>Accident contribution</value>
+    </data>
+    <data name="Health_Contribution" xml:space="preserve">
+        <value>Health contribution</value>
+    </data>
+    <data name="Labour_Fund" xml:space="preserve">
+        <value>Labour fund</value>
+    </data>
+    <data name="Sickness_Insurance" xml:space="preserve">
+        <value>Sickness insurance</value>
+    </data>
+    <data name="Total_Insurance_Per_Month" xml:space="preserve">
+        <value>Total monthly insurance</value>
+    </data>
+    <data name="Total_Deductible_Insurance_Per_Month" xml:space="preserve">
+        <value>PIT deductible insurance</value>
+    </data>
+    <data name="Rule_LumpSum_Limit_Note" xml:space="preserve">
+        <value>Warning, the lump sum limit for current year is {0}</value>
+    </data>
+    <data name="LumpSum_Rate" xml:space="preserve">
+        <value>Lump sum rate</value>
+    </data>
+    <data name="Your_Work_Time_Tooltip" xml:space="preserve">
+        <value>Your {0} work time without days off.</value>
+    </data>
+    <data name="Issues" xml:space="preserve">
+        <value>Issues</value>
+    </data>
+    <data name="Stats" xml:space="preserve">
+        <value>Stats</value>
+    </data>
+    <data name="Update" xml:space="preserve">
+        <value>Updated</value>
+    </data>
+    <data name="Rule_LumpSum" xml:space="preserve">
+        <value>✳️ Lump sum</value>
+    </data>
+    <data name="PIT_Rate_Linear" xml:space="preserve">
+        <value>➖ Linear 19%</value>
+    </data>
+    <data name="Lump_Sum_Percentage" xml:space="preserve">
+        <value>Lump Sum {0}%</value>
+    </data>
+    <data name="Rule_SolidarityLevy" xml:space="preserve">
+        <value>Solidarity levy</value>
+    </data>
+    <data name="Rule_TaxScale" xml:space="preserve">
+        <value>Tax scale</value>
+    </data>
+    <data name="Rule_Linear" xml:space="preserve">
+        <value>Linear</value>
+    </data>
+    <data name="Rule_LumpSum_Limit" xml:space="preserve">
+        <value>Lump sum limit</value>
+    </data>
+    <data name="Rule_Freelancers" xml:space="preserve">
+        <value>Independent professionals</value>
+    </data>
+    <data name="Rule_RealEstates" xml:space="preserve">
+        <value>🏚️ Real estates</value>
+    </data>
+    <data name="Rule_RentalUnder100k" xml:space="preserve">
+        <value>🏚️ Rental up to 100k (8.5/12.5%)</value>
+    </data>
+    <data name="Rule_RentalOver100k" xml:space="preserve">
+        <value>🏚️ Rental over 100k</value>
+    </data>
+    <data name="Rule_ConstructionWork" xml:space="preserve">
+        <value>👷‍♂ Construction Work</value>
+    </data>
+    <data name="Rule_Gastronomy" xml:space="preserve">
+        <value>🍔  Gastronomy</value>
+    </data>
+    <data name="Rule_IT_Testers" xml:space="preserve">
+        <value>🧑‍💻 IT (Testers)</value>
+    </data>
+    <data name="Rule_IT_Devs" xml:space="preserve">
+        <value>🧑‍💻 IT (Programmers)</value>
+    </data>
+    <data name="Rule_HealthcareAndArchitects" xml:space="preserve">
+        <value>🏥 Healthcare and architects</value>
+    </data>
+    <data name="Rule_TaxFreeAmount" xml:space="preserve">
+        <value>Tax free amount</value>
+    </data>
+    <data name="MiddleClassRelief_Bracket1" xml:space="preserve">
+        <value>Middle Class Relief - Threshold I</value>
+    </data>
+    <data name="MiddleClassRelief_Bracket2" xml:space="preserve">
+        <value>Middle Class Relief - Threshold II</value>
+    </data>
+    <data name="Real_Net_Per_Month_Short" xml:space="preserve">
+        <value>After tax / m.</value>
+    </data>
+    <data name="Deductible_Health_Contribution_AsCost" xml:space="preserve">
+        <value>Deductible health insurance (as cost)</value>
+    </data>
+    <data name="Deductible_Health_Contribution_FromTax" xml:space="preserve">
+        <value>Deductible health insurance (from tax)</value>
+    </data>
+    <data name="TaxYear_2023_H1" xml:space="preserve">
+        <value>2023 - 🌗 first half</value>
+    </data>
+    <data name="TaxYear_2023_H2" xml:space="preserve">
+        <value>2023 - 🌓 second half</value>
+    </data>
+</root>
