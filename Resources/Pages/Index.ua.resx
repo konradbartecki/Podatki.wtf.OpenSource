@@ -21,8 +21,8 @@
     <data name="Daily" xml:space="preserve">
         <value>за день</value>
     </data>
-    <data name="за годину" xml:space="preserve">
-        <value>hourly</value>
+    <data name="Hourly" xml:space="preserve">
+        <value>за годину</value>
     </data>
     <data name="Monthly" xml:space="preserve">
         <value>за місяць</value>
@@ -34,335 +34,335 @@
         <value>Податковий калькулятор b2b згідно реформ {0} року вже доступний!</value>
     </data>
     <data name="Subheader_Part2" xml:space="preserve">
-        <value>Get to know how much you will exactly get as a contractor.</value>
+        <value>Дізнайся скільки саме Ви отримаєте як контрактор.</value>
     </data>
     <data name="ZUS_Rate" xml:space="preserve">
-        <value>ZUS Rate</value>
+        <value>Ставка ZUS</value>
     </data>
     <data name="TaxYear_2022_v1" xml:space="preserve">
-        <value>2022 - New Polish Order v1</value>
+        <value>2022 - Новий Польський Лад v1</value>
     </data>
     <data name="TaxYear_2022_v2" xml:space="preserve">
-        <value>2022 - New Polish Order v2</value>
+        <value>2022 - Новий Польський Лад v2</value>
     </data>
     <data name="PIT_Type" xml:space="preserve">
-        <value>PIT type</value>
+        <value>Вид PIT</value>
     </data>
     <data name="New" xml:space="preserve">
-        <value>New</value>
+        <value>Новий</value>
     </data>
     <data name="Net" xml:space="preserve">
-        <value>Net</value>
+        <value>Нетто</value>
     </data>
     <data name="TaxYear" xml:space="preserve">
-        <value>Tax year</value>
+        <value>Податковий рік</value>
     </data>
     <data name="TaxYear_2022_v2_description" xml:space="preserve">
-        <value>Exact calculations for a new version of Polish Order (from 1st July 2022) are not yet well known.</value>
+        <value>Точні розрахунки для нової версії Польського Ладу (з 1 липня 2022 року) поки що невідомі досконало.</value>
     </data>
     <data name="Lump_Sum" xml:space="preserve">
-        <value>Lump sum</value>
+        <value>Спрощена система</value>
     </data>
     <data name="PIT_Rate_Scaled" xml:space="preserve">
-        <value>🔰 Scaled {0}</value>
+        <value>🔰 Загальна ставка {0}</value>
     </data>
     <data name="Author" xml:space="preserve">
-        <value>Author</value>
+        <value>Автор</value>
     </data>
     <data name="Sick_Insurance" xml:space="preserve">
-        <value>Sick insurance</value>
+        <value>Страхування на випадок хвороби</value>
     </data>
     <data name="Statistics" xml:space="preserve">
-        <value>Statistics</value>
+        <value>Статистика</value>
     </data>
     <data name="ZUS_Rate_None" xml:space="preserve">
-        <value>Without ZUS</value>
+        <value>Без ZUS</value>
     </data>
     <data name="ZUS_Rate_Preferential" xml:space="preserve">
-        <value>Preferential (2 years)</value>
+        <value>Пільговий (2 роки)</value>
     </data>
     <data name="ZUS_Rate_StartRelief" xml:space="preserve">
-        <value>Only medical (6 mo.) / UoP</value>
+        <value>Пільга на старт (6 міс.) / UoP</value>
     </data>
     <data name="ZUS_Rate_ZusPlus" xml:space="preserve">
-        <value>ZUS Plus (until 120k/year)</value>
+        <value>ZUS Плюс (до 120тис/рік)</value>
     </data>
     <data name="ZUS_Rate_Full" xml:space="preserve">
-        <value>Normal (big ZUS)</value>
+        <value>Звичайний (повний ZUS)</value>
     </data>
     <data name="TaxYear_IsPreview" xml:space="preserve">
-        <value>Full ZUS rates are not yet known. Provided values are approximate. Assumed {0} for private avg. income in 4th quarter.</value>
+        <value>Повні тарифи ZUS поки що не відомі. Надані значення є приблизними. Припустимо {0} для приватного середнього доходу в 4 кварталі</value>
     </data>
     <data name="Other_Costs" xml:space="preserve">
-        <value>Other costs</value>
+        <value>Інші витрати</value>
     </data>
     <data name="Other_Costs_Description" xml:space="preserve">
-        <value>Addtional costs (excluding VAT) related to conducting of business. For example phone bills, accountant.</value>
+        <value>Додаткові витрати (без ПДВ), пов'язані з веденням господарської діяльності. Наприклад телефонні рахунки, бухгалтер.</value>
     </data>
     <data name="Paid" xml:space="preserve">
-        <value>Paid</value>
+        <value>Оплачуваний</value>
     </data>
     <data name="SeeExplaination" xml:space="preserve">
-        <value>See explaination...</value>
+        <value>Дивіться пояснення...</value>
     </data>
     <data name="ShowAdvanced" xml:space="preserve">
-        <value>Show more options</value>
+        <value>Показати більше варіантів</value>
     </data>
     <data name="ShowSimplified" xml:space="preserve">
-        <value>Show less options</value>
+        <value>Показати меньше варіантів</value>
     </data>
     <data name="DaysOff_Description" xml:space="preserve">
-        <value>When comparing to UoP you need to assume 26 days off and optionally additional 10 sick days off.</value>
+        <value>В порівнянні з UoP, вам потрібно додати 26 вихідних днів і за бажанням додаткові 10 днів лікарняного.</value>
     </data>
     <data name="DaysOff_AreUnpaid" xml:space="preserve">
-        <value>Are your days off unpaid?</value>
+        <value>Ваші вихідні неоплачувані?</value>
     </data>
     <data name="DaysOff_ArePaid" xml:space="preserve">
-        <value>Are your days off paid?</value>
+        <value>Ваші вихідні оплачувані?</value>
     </data>
     <data name="DaysOff" xml:space="preserve">
-        <value>days off</value>
+        <value>вихідні</value>
     </data>
     <data name="ChangeToMonthly" xml:space="preserve">
-        <value>Change to monthly rate</value>
+        <value>Змінити на ставку помісячно</value>
     </data>
     <data name="ChangeToHourly" xml:space="preserve">
-        <value>Change to hourly rate</value>
+        <value>Змінити на ставку погодинно</value>
     </data>
     <data name="Unpaid" xml:space="preserve">
-        <value>Unpaid</value>
+        <value>Неоплачувані</value>
     </data>
     <data name="ZUS_Rate_ZusPlus_PreviousYear" xml:space="preserve">
-        <value>ZUS Plus - Data for previous year</value>
+        <value>ZUS Плюс - Дані за минулий рік</value>
     </data>
     <data name="Net_Income" xml:space="preserve">
-        <value>Net Income</value>
+        <value>Чистий прибуток</value>
     </data>
     <data name="PLN_perYear" xml:space="preserve">
-        <value>PLN/year</value>
+        <value>PLN/рік</value>
     </data>
     <data name="Activity_Conducted_For" xml:space="preserve">
-        <value>Activity conducted for</value>
+        <value>Діяльність проводилась протягом</value>
     </data>
     <data name="Days_Per_Year" xml:space="preserve">
-        <value>days/year</value>
+        <value>днів/рік</value>
     </data>
     <data name="ZUS_Plus_Description" xml:space="preserve">
-        <value>In order to calculate ZUS+ data for previous year such as days activity was conducted and net income are needed. 
-               With this option selected calculation for health contribution and work fund (Fundusz Pracy) is done on the terms of normal ZUS insurance.
-               This option also has minimal and maximal cap. E.g. year 2021 min = 647,59 zł and max = 1457,49 zł</value>
+        <value>Щоб обчислити дані ZUS+ за попередній рік, такі дані як дні діяльності та чистий прибуток, необхідні.
+               З цією опцією вибраний розрахунок для медичного внеску та трудового фонду (Fundusz Pracy) здійснюється на умовах звичайного страхування ZUS.
+               Цей варіант також має мінімальний і максимальний ліміт. Наприклад 2021 рік мінімально = 647,59 zł та максимально = 1457,49 zł</value>
     </data>
     <data name="Taxation_Type" xml:space="preserve">
-        <value>Taxation type</value>
+        <value>Система оподаткування</value>
     </data>
     <data name="Weekly_Working_Hours" xml:space="preserve">
-        <value>Weekly working hours</value>
+        <value>Щотижневі робочі часи</value>
     </data>
     <data name="Hours_Per_Week" xml:space="preserve">
-        <value>h/week</value>
+        <value>год/тиждень</value>
     </data>
     <data name="Base_ZUS_Rate" xml:space="preserve">
-        <value>Base ZUS Rate</value>
+        <value>Базова ставка ZUS</value>
     </data>
     <data name="ZUS_Rate_Range" xml:space="preserve">
-        <value>from 60% to 250%</value>
+        <value>від 60% до 250%</value>
     </data>
     <data name="Pay_ZUS_While_Sick_Info" xml:space="preserve">
-        <value>Pay ZUS while sick</value>
+        <value>Оплачувати ZUS поки на лікарняному</value>
     </data>
     <data name="Sick_Days_Per_Year" xml:space="preserve">
-        <value>Days on sick leave</value>
+        <value>Лікарняних днів</value>
     </data>
     <data name="Net_Monthly" xml:space="preserve">
-        <value>Net monthly</value>
+        <value>Нетто щомісяця</value>
     </data>
     <data name="Real_Net_Per_Month" xml:space="preserve">
-        <value>After tax per month</value>
+        <value>За місяць після податків</value>
     </data>
     <data name="Net_Hourly" xml:space="preserve">
-        <value>Net hourly</value>
+        <value>Нетто погодинно</value>
     </data>
     <data name="Net_Daily" xml:space="preserve">
-        <value>Net daily</value>
+        <value>Нетто щодобово</value>
     </data>
     <data name="PIT_Per_Month" xml:space="preserve">
-        <value>PIT per month</value>
+        <value>PIT в місяць</value>
     </data>
     <data name="ZUS_Per_Month" xml:space="preserve">
-        <value>ZUS per month</value>
+        <value>ZUS в місяць</value>
     </data>
     <data name="Net_Yearly" xml:space="preserve">
-        <value>Net yearly</value>
+        <value>Нетто щорічно</value>
     </data>
     <data name="TaxYear_Tooltip" xml:space="preserve">
-        <value>Yearly working days without weekends and public holidays</value>
+        <value>Річні робочі дні без вихідних та святкових днів</value>
     </data>
     <data name="Total_Working_Days" xml:space="preserve">
-        <value>Total working days in {0}</value>
+        <value>Всього робочих днів у {0}</value>
     </data>
     <data name="Your_Work_Time" xml:space="preserve">
-        <value>Your work time</value>
+        <value>Ваш робочий час</value>
     </data>
     <data name="On_Sick_Salary_Total" xml:space="preserve">
-        <value>Total sick leave allowance for {0} days</value>
+        <value>Загальна сума лікарняних за {0} днів</value>
     </data>
     <data name="Tax_Name" xml:space="preserve">
-        <value>Tax name</value>
+        <value>Назва податку</value>
     </data>
     <data name="Tax_Base" xml:space="preserve">
-        <value>Base</value>
+        <value>Податкова база</value>
     </data>
     <data name="Tax_Percent" xml:space="preserve">
-        <value>Percent</value>
+        <value>Процент</value>
     </data>
     <data name="Tax_Amount" xml:space="preserve">
-        <value>Tax amount</value>
+        <value>Сума податку</value>
     </data>
     <data name="Tax_Relief_Name" xml:space="preserve">
-        <value>Relief name</value>
+        <value>Назва пільги</value>
     </data>
     <data name="Real_Net_Per_Hour" xml:space="preserve">
-        <value>After tax per hour</value>
+        <value>Після податків на годину</value>
     </data>
     <data name="Real_Net_Per_Day" xml:space="preserve">
-        <value>After tax per day</value>
+        <value>Після податків на добу</value>
     </data>
     <data name="Real_Net_Per_Month2" xml:space="preserve">
-        <value>After tax per month</value>
+        <value>Після податків на місяць</value>
     </data>
     <data name="Real_Net_Per_Year" xml:space="preserve">
-        <value>After tax per year</value>
+        <value>Після податків на рік</value>
     </data>
     <data name="Yearly_Costs_Deductible" xml:space="preserve">
-        <value>Yearly costs to be deducted</value>
+        <value>Щорічні витрати, які підлягають вирахуванню</value>
     </data>
     <data name="Taxable_Base_Amount" xml:space="preserve">
-        <value>Taxable base</value>
+        <value>Сума податкової бази</value>
     </data>
     <data name="Yearly_Tax_Total_Burden" xml:space="preserve">
-        <value>Yearly tax total rate (ZUS+PIT+Costs)</value>
+        <value>Річна загальна ставка податку (ZUS+PIT+Витрати)</value>
     </data>
     <data name="Total_Effective_Rate_Percent" xml:space="preserve">
-        <value>Effective total tax rate (ZUS+PIT+Costs)</value>
+        <value>Ефективна загальна ставка податку (ZUS+PIT+Витрати)</value>
     </data>
     <data name="Yearly_PIT" xml:space="preserve">
-        <value>PIT yearly</value>
+        <value>Щорічний PIT</value>
     </data>
     <data name="PIT_Effective_Rate_Percent" xml:space="preserve">
-        <value>PIT effective rate</value>
+        <value>Ефективна ставка PIT</value>
     </data>
     <data name="Pension_Contribution" xml:space="preserve">
-        <value>Pension contribution</value>
+        <value>Пенсійний внесок</value>
     </data>
     <data name="Disability_Pension_Contribution" xml:space="preserve">
-        <value>Disability pension contribution</value>
+        <value>Пенсійний внесок по інвалідності</value>
     </data>
     <data name="Accident_Contribution" xml:space="preserve">
-        <value>Accident contribution</value>
+        <value>Внесок по нещасному випадку</value>
     </data>
     <data name="Health_Contribution" xml:space="preserve">
-        <value>Health contribution</value>
+        <value>Медичний внесок</value>
     </data>
     <data name="Labour_Fund" xml:space="preserve">
-        <value>Labour fund</value>
+        <value>Фонд праці</value>
     </data>
     <data name="Sickness_Insurance" xml:space="preserve">
-        <value>Sickness insurance</value>
+        <value>Страхування на випадок лікарняного</value>
     </data>
     <data name="Total_Insurance_Per_Month" xml:space="preserve">
-        <value>Total monthly insurance</value>
+        <value>Місячні внески ZUS</value>
     </data>
     <data name="Total_Deductible_Insurance_Per_Month" xml:space="preserve">
-        <value>PIT deductible insurance</value>
+        <value>Внески ZUS для вирахування з PIT</value>
     </data>
     <data name="Rule_LumpSum_Limit_Note" xml:space="preserve">
-        <value>Warning, the lump sum limit for current year is {0}</value>
+        <value>Попередження, ліміт по спрощеній системі на поточний рік становить {0}</value>
     </data>
     <data name="LumpSum_Rate" xml:space="preserve">
-        <value>Lump sum rate</value>
+        <value>Ставка по Спрощеній системі</value>
     </data>
     <data name="Your_Work_Time_Tooltip" xml:space="preserve">
-        <value>Your {0} work time without days off.</value>
+        <value>Ваш робочий час без вихідних у {0} році.</value>
     </data>
     <data name="Issues" xml:space="preserve">
-        <value>Issues</value>
+        <value>Проблеми</value>
     </data>
     <data name="Stats" xml:space="preserve">
-        <value>Stats</value>
+        <value>Статистика</value>
     </data>
     <data name="Update" xml:space="preserve">
-        <value>Updated</value>
+        <value>Оновлено</value>
     </data>
     <data name="Rule_LumpSum" xml:space="preserve">
-        <value>✳️ Lump sum</value>
+        <value>✳️ Спрощена система</value>
     </data>
     <data name="PIT_Rate_Linear" xml:space="preserve">
-        <value>➖ Linear 19%</value>
+        <value>➖ Лінійна 19%</value>
     </data>
     <data name="Lump_Sum_Percentage" xml:space="preserve">
-        <value>Lump Sum {0}%</value>
+        <value>Спрощена система {0}%</value>
     </data>
     <data name="Rule_SolidarityLevy" xml:space="preserve">
-        <value>Solidarity levy</value>
+        <value>Внесок до Профспілки</value>
     </data>
     <data name="Rule_TaxScale" xml:space="preserve">
-        <value>Tax scale</value>
+        <value>Загальна</value>
     </data>
     <data name="Rule_Linear" xml:space="preserve">
-        <value>Linear</value>
+        <value>Лінійна</value>
     </data>
     <data name="Rule_LumpSum_Limit" xml:space="preserve">
-        <value>Lump sum limit</value>
+        <value>Лімит по Спрощеній системі</value>
     </data>
     <data name="Rule_Freelancers" xml:space="preserve">
-        <value>Independent professionals</value>
+        <value>Фрілансери</value>
     </data>
     <data name="Rule_RealEstates" xml:space="preserve">
-        <value>🏚️ Real estates</value>
+        <value>🏚️ Нерухомість</value>
     </data>
     <data name="Rule_RentalUnder100k" xml:space="preserve">
-        <value>🏚️ Rental up to 100k (8.5/12.5%)</value>
+        <value>🏚️ Оренда до 100тис (8.5/12.5%)</value>
     </data>
     <data name="Rule_RentalOver100k" xml:space="preserve">
-        <value>🏚️ Rental over 100k</value>
+        <value>🏚️ Оренда більше 100тис</value>
     </data>
     <data name="Rule_ConstructionWork" xml:space="preserve">
-        <value>👷‍♂ Construction Work</value>
+        <value>👷‍♂ Будівельні роботи</value>
     </data>
     <data name="Rule_Gastronomy" xml:space="preserve">
-        <value>🍔  Gastronomy</value>
+        <value>🍔 Гастрономія</value>
     </data>
     <data name="Rule_IT_Testers" xml:space="preserve">
-        <value>🧑‍💻 IT (Testers)</value>
+        <value>🧑‍💻 IT (Тестувальники)</value>
     </data>
     <data name="Rule_IT_Devs" xml:space="preserve">
-        <value>🧑‍💻 IT (Programmers)</value>
+        <value>🧑‍💻 IT (Програмісти)</value>
     </data>
     <data name="Rule_HealthcareAndArchitects" xml:space="preserve">
-        <value>🏥 Healthcare and architects</value>
+        <value>🏥 Медицина та архітектори</value>
     </data>
     <data name="Rule_TaxFreeAmount" xml:space="preserve">
-        <value>Tax free amount</value>
+        <value>Неоподатковувана сума</value>
     </data>
     <data name="MiddleClassRelief_Bracket1" xml:space="preserve">
-        <value>Middle Class Relief - Threshold I</value>
+        <value>Пільга для середнього класу - Поріг I</value>
     </data>
     <data name="MiddleClassRelief_Bracket2" xml:space="preserve">
-        <value>Middle Class Relief - Threshold II</value>
+        <value>Пільга для середнього класу - Поріг II</value>
     </data>
     <data name="Real_Net_Per_Month_Short" xml:space="preserve">
-        <value>After tax / m.</value>
+        <value>Після податків / міс.</value>
     </data>
     <data name="Deductible_Health_Contribution_AsCost" xml:space="preserve">
-        <value>Deductible health insurance (as cost)</value>
+        <value>Медичне страхування (до вирахування з витрат)</value>
     </data>
     <data name="Deductible_Health_Contribution_FromTax" xml:space="preserve">
-        <value>Deductible health insurance (from tax)</value>
+        <value>Медичне страхування (до вирахування з податку)</value>
     </data>
     <data name="TaxYear_2023_H1" xml:space="preserve">
-        <value>2023 - 🌗 first half</value>
+        <value>2023 - 🌗 перша половина</value>
     </data>
     <data name="TaxYear_2023_H2" xml:space="preserve">
-        <value>2023 - 🌓 second half</value>
+        <value>2023 - 🌓 друга половина</value>
     </data>
 </root>
