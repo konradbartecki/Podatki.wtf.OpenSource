@@ -31,10 +31,10 @@
         <value>yearly</value>
     </data>
     <data name="Subheader_Part1" xml:space="preserve">
-        <value>Tax calculator for new {0} reforms available!</value>
+        <value>Tax calculator {0} for B2B contractors in Poland</value>
     </data>
     <data name="Subheader_Part2" xml:space="preserve">
-        <value>Get to know how much you will exactly get as a contractor.</value>
+        <value>Get to know how much you will exactly get as a sole-ownership business.</value>
     </data>
     <data name="ZUS_Rate" xml:space="preserve">
         <value>ZUS Rate</value>
