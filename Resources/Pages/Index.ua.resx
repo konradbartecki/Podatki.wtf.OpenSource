@@ -91,7 +91,7 @@
         <value>Звичайний (повний ZUS)</value>
     </data>
     <data name="TaxYear_IsPreview" xml:space="preserve">
-        <value>Повні тарифи ZUS поки що не відомі. Надані значення є приблизними. Припустимо {0} для приватного середнього доходу в 4 кварталі</value>
+        <value>Повні ставки ZUS поки що не відомі. Надані значення є приблизними. За показник середньої заробітної плати в секторі підприємств у четвертому кварталі було взято значення {0}</value>
     </data>
     <data name="Other_Costs" xml:space="preserve">
         <value>Інші витрати</value>
@@ -103,7 +103,7 @@
         <value>Оплачуваний</value>
     </data>
     <data name="SeeExplaination" xml:space="preserve">
-        <value>Дивіться пояснення...</value>
+        <value>Подивитись пояснення...</value>
     </data>
     <data name="ShowAdvanced" xml:space="preserve">
         <value>Показати більше варіантів</value>
@@ -142,7 +142,7 @@
         <value>PLN/рік</value>
     </data>
     <data name="Activity_Conducted_For" xml:space="preserve">
-        <value>Діяльність проводилась протягом</value>
+        <value>Діяльність, що здійснюється</value>
     </data>
     <data name="Days_Per_Year" xml:space="preserve">
         <value>днів/рік</value>
@@ -162,13 +162,13 @@
         <value>год/тиждень</value>
     </data>
     <data name="Base_ZUS_Rate" xml:space="preserve">
-        <value>Базова ставка ZUS</value>
+        <value>Основа оцінки ZUS</value>
     </data>
     <data name="ZUS_Rate_Range" xml:space="preserve">
         <value>від 60% до 250%</value>
     </data>
     <data name="Pay_ZUS_While_Sick_Info" xml:space="preserve">
-        <value>Оплачувати ZUS поки на лікарняному</value>
+        <value>Сплачувати ZUS під час хвороби</value>
     </data>
     <data name="Sick_Days_Per_Year" xml:space="preserve">
         <value>Лікарняних днів</value>
@@ -180,16 +180,16 @@
         <value>За місяць після податків</value>
     </data>
     <data name="Net_Hourly" xml:space="preserve">
-        <value>Нетто погодинно</value>
+        <value>Нетто за годину</value>
     </data>
     <data name="Net_Daily" xml:space="preserve">
-        <value>Нетто щодобово</value>
+        <value>Нетто за добу</value>
     </data>
     <data name="PIT_Per_Month" xml:space="preserve">
-        <value>PIT в місяць</value>
+        <value>PIT за місяць</value>
     </data>
     <data name="ZUS_Per_Month" xml:space="preserve">
-        <value>ZUS в місяць</value>
+        <value>ZUS за місяць</value>
     </data>
     <data name="Net_Yearly" xml:space="preserve">
         <value>Нетто щорічно</value>
@@ -276,7 +276,7 @@
         <value>Внески ZUS для вирахування з PIT</value>
     </data>
     <data name="Rule_LumpSum_Limit_Note" xml:space="preserve">
-        <value>Попередження, ліміт по спрощеній системі на поточний рік становить {0}</value>
+        <value>Попередження, ліміт по Спрощеній системі на поточний рік становить {0}</value>
     </data>
     <data name="LumpSum_Rate" xml:space="preserve">
         <value>Ставка по Спрощеній системі</value>
@@ -285,7 +285,7 @@
         <value>Ваш робочий час без вихідних у {0} році.</value>
     </data>
     <data name="Issues" xml:space="preserve">
-        <value>Проблеми</value>
+        <value>Issues</value>
     </data>
     <data name="Stats" xml:space="preserve">
         <value>Статистика</value>
@@ -303,7 +303,7 @@
         <value>Спрощена система {0}%</value>
     </data>
     <data name="Rule_SolidarityLevy" xml:space="preserve">
-        <value>Внесок до Профспілки</value>
+        <value>Внесок солідарності</value>
     </data>
     <data name="Rule_TaxScale" xml:space="preserve">
         <value>Загальна</value>
@@ -312,7 +312,7 @@
         <value>Лінійна</value>
     </data>
     <data name="Rule_LumpSum_Limit" xml:space="preserve">
-        <value>Лімит по Спрощеній системі</value>
+        <value>Ліміт по Спрощеній системі</value>
     </data>
     <data name="Rule_Freelancers" xml:space="preserve">
         <value>Фрілансери</value>
