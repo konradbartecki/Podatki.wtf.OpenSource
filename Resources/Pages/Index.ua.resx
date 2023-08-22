@@ -19,19 +19,19 @@
         <value>podatki.wtf 🤷‍♂</value>
     </data>
     <data name="Daily" xml:space="preserve">
-        <value>daily</value>
+        <value>за день</value>
     </data>
-    <data name="Hourly" xml:space="preserve">
+    <data name="за годину" xml:space="preserve">
         <value>hourly</value>
     </data>
     <data name="Monthly" xml:space="preserve">
-        <value>monthly</value>
+        <value>за місяць</value>
     </data>
     <data name="Yearly" xml:space="preserve">
-        <value>yearly</value>
+        <value>за рік</value>
     </data>
     <data name="Subheader_Part1" xml:space="preserve">
-        <value>Tax calculator for new {0} reforms available!</value>
+        <value>Податковий калькулятор b2b згідно реформ {0} року вже доступний!</value>
     </data>
     <data name="Subheader_Part2" xml:space="preserve">
         <value>Get to know how much you will exactly get as a contractor.</value>
