@@ -12,23 +12,23 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="Title" xml:space="preserve">
-        <value>Updates</value>
+        <value>Оновлення</value>
     </data>
     <data name="Last_Update" xml:space="preserve">
-        <value>Last update</value>
+        <value>Останнє оновлення</value>
     </data>
     <data name="2022_02_Update" xml:space="preserve">
         <value>📆2022.02
-For the time being, the calculations of the new Polish Deal (as of July 1, 2022) in this calculator include:
- - First PIT threshold of 12%
- - No relief for the middle class</value>
+На даний момент розрахунки нового Польського Ладу (з 1 липня 2022 року) в цьому калькуляторі включають наступне:
+ - Перший поріг PIT 12%
+ - Ніяких пільг для середнього класу</value>
     </data>
     <data name="2022_08_Update" xml:space="preserve">
         <value>📆2023.08
-Added support for multiple languages
-- Polish
-- English
+Додано багатомовну підтримку
+- Польська
+- Англійська
 
-Result bubbles will now show a conversion for other currencies</value>
+Бульбашки результатів тепер показуватимуть конвертацію для інших валют</value>
     </data>
 </root>

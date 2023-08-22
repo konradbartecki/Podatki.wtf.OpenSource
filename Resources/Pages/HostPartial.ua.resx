@@ -12,12 +12,12 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="PageTitle" xml:space="preserve">
-        <value>B2B Tax calculator {0} - podatki.wtf</value>
+        <value>B2B Податковий калькулятор {0} - podatki.wtf</value>
     </data>
     <data name="Keywords" xml:space="preserve">
-        <value>Tax calculator, Poland, B2B, contractor, business, jdg, after tax, self-employed</value>
+        <value>Податковий калькулятор, Польща, B2B, контрактор, бізнес, jdg, після оподаткування, ФОП</value>
     </data>
     <data name="Description" xml:space="preserve">
-        <value>Tax calculator {0} for B2B contractors. Compare rates hourly, daily, monthly with days off and in multiple currencies.</value>
+        <value>Податковий калькулятор {0} для B2B контракторів. Порівняйте тарифи погодинно, щоденно, щомісячно, з урахуванням вихідних і в різних валютах.</value>
     </data>
 </root>

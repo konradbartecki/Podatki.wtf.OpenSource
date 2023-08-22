@@ -12,24 +12,24 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="Error_IncorrectEmail" xml:space="preserve">
-        <value>Put a correct email</value>
+        <value>Введіть правильний email</value>
     </data>
     <data name="Placeholder" xml:space="preserve">
-        <value>E-mail address</value>
+        <value>E-mail адреса</value>
     </data>
     <data name="Footer" xml:space="preserve">
-        <value>Signing up for this newsletter you agree for receiving e-mails about news, promotions, new products and services of "podatki.wtf" and "Konrad Bartecki Development" TAX ID/NIP: 505-012-6591</value>
+        <value>Підписавшись на цю розсилку, ви погоджуєтесь на отримання електронних листів про новини, акції, нові продукти та послуги від "podatki.wtf" та "Konrad Bartecki Development" податковий номер/NIP: 505-012-6591</value>
     </data>
     <data name="Error_Unknown" xml:space="preserve">
-        <value>Something went wrong, please try again later.</value>
+        <value>Щось пішло не так, будь ласка, спробуйте пізніше.</value>
     </data>
     <data name="PleaseConfirm" xml:space="preserve">
-        <value>Send it!</value>
+        <value>Відправити!</value>
     </data>
     <data name="Thanks" xml:space="preserve">
-        <value>Thanks! You'll get an email soon 🙌</value>
+        <value>Дякую! Незабаром ви отримаєте лист на електронну пошту 🙌</value>
     </data>
     <data name="Title" xml:space="preserve">
-        <value>Enter the e-mail to which you want to receive news about podatki.wtf.</value>
+        <value>Введіть e-mail, на який ви хочете отримувати новини про podatki.wtf.</value>
     </data>
 </root>

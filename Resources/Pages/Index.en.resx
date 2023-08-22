@@ -97,13 +97,13 @@
         <value>Other costs</value>
     </data>
     <data name="Other_Costs_Description" xml:space="preserve">
-        <value>Addtional costs (excluding VAT) related to conducting of business. For example phone bills, accountant.</value>
+        <value>Additional costs (excluding VAT) related to conducting of business. For example phone bills, accountant.</value>
     </data>
     <data name="Paid" xml:space="preserve">
         <value>Paid</value>
     </data>
     <data name="SeeExplaination" xml:space="preserve">
-        <value>See explaination...</value>
+        <value>See explanation...</value>
     </data>
     <data name="ShowAdvanced" xml:space="preserve">
         <value>Show more options</value>
