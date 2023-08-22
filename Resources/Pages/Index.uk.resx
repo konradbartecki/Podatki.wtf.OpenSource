@@ -64,7 +64,7 @@
         <value>Спрощена система</value>
     </data>
     <data name="PIT_Rate_Scaled" xml:space="preserve">
-        <value>🔰 Загальна ставка {0}</value>
+        <value>🔰 Загальна {0}</value>
     </data>
     <data name="Author" xml:space="preserve">
         <value>Автор</value>
@@ -100,7 +100,7 @@
         <value>Додаткові витрати (без ПДВ), пов'язані з веденням господарської діяльності. Наприклад телефонні рахунки, бухгалтер.</value>
     </data>
     <data name="Paid" xml:space="preserve">
-        <value>Оплачуваний</value>
+        <value>Оплачувані</value>
     </data>
     <data name="SeeExplaination" xml:space="preserve">
         <value>Подивитись пояснення...</value>
@@ -142,7 +142,7 @@
         <value>PLN/рік</value>
     </data>
     <data name="Activity_Conducted_For" xml:space="preserve">
-        <value>Діяльність, що здійснюється</value>
+        <value>Діяльність проводилася протягом</value>
     </data>
     <data name="Days_Per_Year" xml:space="preserve">
         <value>днів/рік</value>
