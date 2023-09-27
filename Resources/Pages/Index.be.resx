@@ -190,7 +190,7 @@
     <comment/>
   </data>
   <data name="Sick_Insurance" xml:space="preserve">
-    <value>Страхоўка на выпадак хваробы</value>
+    <value>Бальнічныя ўнёскі</value>
     <comment/>
   </data>
   <data name="Statistics" xml:space="preserve">
@@ -246,7 +246,7 @@
     <comment/>
   </data>
   <data name="DaysOff_Description" xml:space="preserve">
-    <value>У параўнанні з UoP, вы павінны дадаць 26 выходных і, па жаданні, 10 бальнічных.</value>
+    <value>Каб параўнаць з UoP, дадайце 26 выходных і, па жаданні, 10 бальнічных.</value>
     <comment/>
   </data>
   <data name="DaysOff_AreUnpaid" xml:space="preserve">
@@ -326,7 +326,7 @@
     <comment/>
   </data>
   <data name="Net_Monthly" xml:space="preserve">
-    <value>Чысты штомесяц</value>
+    <value>Чысты прыбытак штомесяц</value>
     <comment/>
   </data>
   <data name="Real_Net_Per_Month" xml:space="preserve">
@@ -390,19 +390,19 @@
     <comment/>
   </data>
   <data name="Real_Net_Per_Hour" xml:space="preserve">
-    <value>За гадзіну чыстыми</value>
+    <value>За гадзіну на рукі</value>
     <comment/>
   </data>
   <data name="Real_Net_Per_Day" xml:space="preserve">
-    <value>За дзень чыстыми</value>
+    <value>За дзень на рукі</value>
     <comment/>
   </data>
   <data name="Real_Net_Per_Month2" xml:space="preserve">
-    <value>За месяц чыстыми</value>
+    <value>За месяц на рукі</value>
     <comment/>
   </data>
   <data name="Real_Net_Per_Year" xml:space="preserve">
-    <value>За год чыстыми</value>
+    <value>За год на рукі</value>
     <comment/>
   </data>
   <data name="Yearly_Costs_Deductible" xml:space="preserve">
@@ -434,7 +434,7 @@
     <comment/>
   </data>
   <data name="Disability_Pension_Contribution" xml:space="preserve">
-    <value>Унёскі па пенсіі па інваліднасці</value>
+    <value>Унёскі на пенсіі па інваліднасці</value>
     <comment/>
   </data>
   <data name="Accident_Contribution" xml:space="preserve">
@@ -442,7 +442,7 @@
     <comment/>
   </data>
   <data name="Health_Contribution" xml:space="preserve">
-    <value>Унёсак на ахову здароўя</value>
+    <value>Унёскі на ахову здароўя</value>
     <comment/>
   </data>
   <data name="Labour_Fund" xml:space="preserve">
@@ -490,7 +490,7 @@
     <comment/>
   </data>
   <data name="PIT_Rate_Linear" xml:space="preserve">
-    <value>➖ Лінейная стаўка 19%</value>
+    <value>➖ Лінейная 19%</value>
     <comment/>
   </data>
   <data name="Lump_Sum_Percentage" xml:space="preserve">
