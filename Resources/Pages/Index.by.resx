@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Header" xml:space="preserve">
+    <value>podatki.wtf 🤷‍♂</value>
+    <comment/>
+  </data>
+  <data name="Daily" xml:space="preserve">
+    <value>за дзень</value>
+    <comment/>
+  </data>
+  <data name="Hourly" xml:space="preserve">
+    <value>за гадзіну</value>
+    <comment/>
+  </data>
+  <data name="Monthly" xml:space="preserve">
+    <value>за месяц</value>
+    <comment/>
+  </data>
+  <data name="Yearly" xml:space="preserve">
+    <value>за год</value>
+    <comment/>
+  </data>
+  <data name="Subheader_Part1" xml:space="preserve">
+    <value>Падатковы калькулятар {0} для B2B кантрактараў у Польшчы</value>
+    <comment/>
+  </data>
+  <data name="Subheader_Part2" xml:space="preserve">
+    <value>Даведайся колькі дакладна ты атрымаеш як прадпрымальнік.</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Rate" xml:space="preserve">
+    <value>Стаўка ZUS</value>
+    <comment/>
+  </data>
+  <data name="TaxYear_2022_v1" xml:space="preserve">
+    <value>2022 - Новы Польскі Лад v1</value>
+    <comment/>
+  </data>
+  <data name="TaxYear_2022_v2" xml:space="preserve">
+    <value>2022 - Новы Польскі Лад v2</value>
+    <comment/>
+  </data>
+  <data name="PIT_Type" xml:space="preserve">
+    <value>Тып PIT</value>
+    <comment/>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>Новы</value>
+    <comment/>
+  </data>
+  <data name="Net" xml:space="preserve">
+    <value>Нэта</value>
+    <comment/>
+  </data>
+  <data name="TaxYear" xml:space="preserve">
+    <value>Падатковы год</value>
+    <comment/>
+  </data>
+  <data name="TaxYear_2022_v2_description" xml:space="preserve">
+    <value>Дакладныя разлікі для новай версіі Польскага Ладу (з 1 ліпеня 2022 г.) пакуль невядомыя.</value>
+    <comment/>
+  </data>
+  <data name="Lump_Sum" xml:space="preserve">
+    <value>Спрошчаная сістэма (рычалт)</value>
+    <comment/>
+  </data>
+  <data name="PIT_Rate_Scaled" xml:space="preserve">
+    <value>🔰 Агульная {0}</value>
+    <comment/>
+  </data>
+  <data name="Author" xml:space="preserve">
+    <value>Аўтар</value>
+    <comment/>
+  </data>
+  <data name="Sick_Insurance" xml:space="preserve">
+    <value>Страхоўка на выпадак хваробы</value>
+    <comment/>
+  </data>
+  <data name="Statistics" xml:space="preserve">
+    <value>Статыстыка</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Rate_None" xml:space="preserve">
+    <value>Без ZUS</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Rate_Preferential" xml:space="preserve">
+    <value>Ільготны (2 гады)</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Rate_StartRelief" xml:space="preserve">
+    <value>Ільгота на старт (6 мес.) / UoP</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Rate_ZusPlus" xml:space="preserve">
+    <value>ZUS Plus (да 120 тыс./год)</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Rate_Full" xml:space="preserve">
+    <value>Нармальны (поўны ZUS)</value>
+    <comment/>
+  </data>
+  <data name="TaxYear_IsPreview" xml:space="preserve">
+    <value>Поўныя тарыфы ZUS пакуль невядомыя. Прыведзеныя значэнні прыблізныя. Сярэдняя заработная плата ў сектары прадпрыемстваў у чацвёртым квартале была прынятая як {0}</value>
+    <comment/>
+  </data>
+  <data name="Other_Costs" xml:space="preserve">
+    <value>Іншыя выдаткі</value>
+    <comment/>
+  </data>
+  <data name="Other_Costs_Description" xml:space="preserve">
+    <value>Дадатковыя выдаткі (без VAT), звязаныя з вядзеннем дзейнасці. Напрыклад, тэлефонныя рахункі, бухгалтар.</value>
+    <comment/>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>Аплачваемыя</value>
+    <comment/>
+  </data>
+  <data name="SeeExplaination" xml:space="preserve">
+    <value>Паглядзець тлумачэнне...</value>
+    <comment/>
+  </data>
+  <data name="ShowAdvanced" xml:space="preserve">
+    <value>Паказаць дадатковыя параметры</value>
+    <comment/>
+  </data>
+  <data name="ShowSimplified" xml:space="preserve">
+    <value>Паказаць менш параметраў</value>
+    <comment/>
+  </data>
+  <data name="DaysOff_Description" xml:space="preserve">
+    <value>У параўнанні з UoP, вы павінны дадаць 26 выходных і, па жаданні, 10 бальнічных.</value>
+    <comment/>
+  </data>
+  <data name="DaysOff_AreUnpaid" xml:space="preserve">
+    <value>Ваш водпуск не аплачваецца?</value>
+    <comment/>
+  </data>
+  <data name="DaysOff_ArePaid" xml:space="preserve">
+    <value>Ваш водпуск аплачваецца?</value>
+    <comment/>
+  </data>
+  <data name="DaysOff" xml:space="preserve">
+    <value>дні водпуску</value>
+    <comment/>
+  </data>
+  <data name="ChangeToMonthly" xml:space="preserve">
+    <value>Змяніце стаўку на штомесячную</value>
+    <comment/>
+  </data>
+  <data name="ChangeToHourly" xml:space="preserve">
+    <value>Змяніце стаўку на пагадзінную</value>
+    <comment/>
+  </data>
+  <data name="Unpaid" xml:space="preserve">
+    <value>Неплачваемыя</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Rate_ZusPlus_PreviousYear" xml:space="preserve">
+    <value>ZUS Plus – Дадзеныя за мінулы год</value>
+    <comment/>
+  </data>
+  <data name="Net_Income" xml:space="preserve">
+    <value>Чысты прыбытак</value>
+    <comment/>
+  </data>
+  <data name="PLN_perYear" xml:space="preserve">
+    <value>PLN/год</value>
+    <comment/>
+  </data>
+  <data name="Activity_Conducted_For" xml:space="preserve">
+    <value>Бізнэс, які вядзе</value>
+    <comment/>
+  </data>
+  <data name="Days_Per_Year" xml:space="preserve">
+    <value>дзён/год</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Plus_Description" xml:space="preserve">
+    <value>Каб разлічыць ZUS+, патрэбны даныя за мінулы год, напрыклад, колькасць дзён вядзення бізнесу ў годзе і даход. Пры гэтым варыянце разлік узносаў на медыцынскае страхаванне і фонду працы заснаваны на правілах звычайнага ZUS. У гэтай опцыі таксама ёсць мінімальны і максімальны парогі, напрыклад, для 2021 года мінімум = 647,59 злотых, максімум = 1457,49 злотых</value>
+    <comment/>
+  </data>
+  <data name="Taxation_Type" xml:space="preserve">
+    <value>Тып падаткаабкладання</value>
+    <comment/>
+  </data>
+  <data name="Weekly_Working_Hours" xml:space="preserve">
+    <value>Гадзін працы ў тыдню</value>
+    <comment/>
+  </data>
+  <data name="Hours_Per_Week" xml:space="preserve">
+    <value>г/тыдзень</value>
+    <comment/>
+  </data>
+  <data name="Base_ZUS_Rate" xml:space="preserve">
+    <value>Аснова разліку ZUS</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Rate_Range" xml:space="preserve">
+    <value>ад 60% да 250%</value>
+    <comment/>
+  </data>
+  <data name="Pay_ZUS_While_Sick_Info" xml:space="preserve">
+    <value>Плаціць ZUS падчас хваробы</value>
+    <comment/>
+  </data>
+  <data name="Sick_Days_Per_Year" xml:space="preserve">
+    <value>Дні на бальнічным</value>
+    <comment/>
+  </data>
+  <data name="Net_Monthly" xml:space="preserve">
+    <value>Чысты штомесяц</value>
+    <comment/>
+  </data>
+  <data name="Real_Net_Per_Month" xml:space="preserve">
+    <value>На рукі кожны месяц</value>
+    <comment/>
+  </data>
+  <data name="Net_Hourly" xml:space="preserve">
+    <value>Нэта за гадзіну</value>
+    <comment/>
+  </data>
+  <data name="Net_Daily" xml:space="preserve">
+    <value>Нэта за дзень</value>
+    <comment/>
+  </data>
+  <data name="PIT_Per_Month" xml:space="preserve">
+    <value>PIT за месяц</value>
+    <comment/>
+  </data>
+  <data name="ZUS_Per_Month" xml:space="preserve">
+    <value>ZUS за месяц</value>
+    <comment/>
+  </data>
+  <data name="Net_Yearly" xml:space="preserve">
+    <value>Нэта за год</value>
+    <comment/>
+  </data>
+  <data name="TaxYear_Tooltip" xml:space="preserve">
+    <value>Працоўныя дні ў годзе без выхадных і святочных дзён</value>
+    <comment/>
+  </data>
+  <data name="Total_Working_Days" xml:space="preserve">
+    <value>Усяго працоўных дзён у {0}</value>
+    <comment/>
+  </data>
+  <data name="Your_Work_Time" xml:space="preserve">
+    <value>Ваш працоўны час</value>
+    <comment/>
+  </data>
+  <data name="On_Sick_Salary_Total" xml:space="preserve">
+    <value>Агульная сума бальнічных за {0} дзён</value>
+    <comment/>
+  </data>
+  <data name="Tax_Name" xml:space="preserve">
+    <value>Назва падатку</value>
+    <comment/>
+  </data>
+  <data name="Tax_Base" xml:space="preserve">
+    <value>Падатковая база</value>
+    <comment/>
+  </data>
+  <data name="Tax_Percent" xml:space="preserve">
+    <value>Адсотак</value>
+    <comment/>
+  </data>
+  <data name="Tax_Amount" xml:space="preserve">
+    <value>Сума падатку</value>
+    <comment/>
+  </data>
+  <data name="Tax_Relief_Name" xml:space="preserve">
+    <value>Назва ільготы</value>
+    <comment/>
+  </data>
+  <data name="Real_Net_Per_Hour" xml:space="preserve">
+    <value>За гадзіну чыстыми</value>
+    <comment/>
+  </data>
+  <data name="Real_Net_Per_Day" xml:space="preserve">
+    <value>За дзень чыстыми</value>
+    <comment/>
+  </data>
+  <data name="Real_Net_Per_Month2" xml:space="preserve">
+    <value>За месяц чыстыми</value>
+    <comment/>
+  </data>
+  <data name="Real_Net_Per_Year" xml:space="preserve">
+    <value>За год чыстыми</value>
+    <comment/>
+  </data>
+  <data name="Yearly_Costs_Deductible" xml:space="preserve">
+    <value>Гадавая сума выдаткаў да адлічэння</value>
+    <comment/>
+  </data>
+  <data name="Taxable_Base_Amount" xml:space="preserve">
+    <value>Падатковая база</value>
+    <comment/>
+  </data>
+  <data name="Yearly_Tax_Total_Burden" xml:space="preserve">
+    <value>Агульная гадавая стаўка падатку (ZUS+PIT+Выдаткі)</value>
+    <comment/>
+  </data>
+  <data name="Total_Effective_Rate_Percent" xml:space="preserve">
+    <value>Эфектыўная агульная стаўка падатку (ZUS+PIT+Выдаткі)</value>
+    <comment/>
+  </data>
+  <data name="Yearly_PIT" xml:space="preserve">
+    <value>Гадавы PIT</value>
+    <comment/>
+  </data>
+  <data name="PIT_Effective_Rate_Percent" xml:space="preserve">
+    <value>Эфектыўная стаўка PIT</value>
+    <comment/>
+  </data>
+  <data name="Pension_Contribution" xml:space="preserve">
+    <value>Пенсійныя ўнёскі</value>
+    <comment/>
+  </data>
+  <data name="Disability_Pension_Contribution" xml:space="preserve">
+    <value>Унёскі па пенсіі па інваліднасці</value>
+    <comment/>
+  </data>
+  <data name="Accident_Contribution" xml:space="preserve">
+    <value>Унёскі па няшчасных выпадках</value>
+    <comment/>
+  </data>
+  <data name="Health_Contribution" xml:space="preserve">
+    <value>Унёсак на ахову здароўя</value>
+    <comment/>
+  </data>
+  <data name="Labour_Fund" xml:space="preserve">
+    <value>Фонд працы</value>
+    <comment/>
+  </data>
+  <data name="Sickness_Insurance" xml:space="preserve">
+    <value>Унёскі на бальнічныя</value>
+    <comment/>
+  </data>
+  <data name="Total_Insurance_Per_Month" xml:space="preserve">
+    <value>Агульныя ўнёскі ZUS</value>
+    <comment/>
+  </data>
+  <data name="Total_Deductible_Insurance_Per_Month" xml:space="preserve">
+    <value>Унёскі ZUS да адлічэння з PIT</value>
+    <comment/>
+  </data>
+  <data name="Rule_LumpSum_Limit_Note" xml:space="preserve">
+    <value>Увага, ліміт для рычалта на бягучы год складае {0}</value>
+    <comment/>
+  </data>
+  <data name="LumpSum_Rate" xml:space="preserve">
+    <value>Стаўка рычалту</value>
+    <comment/>
+  </data>
+  <data name="Your_Work_Time_Tooltip" xml:space="preserve">
+    <value>Працоўны час у {0} за вылікам водпуску</value>
+    <comment/>
+  </data>
+  <data name="Issues" xml:space="preserve">
+    <value>Issues</value>
+    <comment/>
+  </data>
+  <data name="Stats" xml:space="preserve">
+    <value>Статыстыка</value>
+    <comment/>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Абноўлена</value>
+    <comment/>
+  </data>
+  <data name="Rule_LumpSum" xml:space="preserve">
+    <value>✳️ Рычалт (спрошчаная сістэма)</value>
+    <comment/>
+  </data>
+  <data name="PIT_Rate_Linear" xml:space="preserve">
+    <value>➖ Лінейная стаўка 19%</value>
+    <comment/>
+  </data>
+  <data name="Lump_Sum_Percentage" xml:space="preserve">
+    <value>Рычалт {0}%</value>
+    <comment/>
+  </data>
+  <data name="Rule_SolidarityLevy" xml:space="preserve">
+    <value>Аплата ў прафсаюз</value>
+    <comment/>
+  </data>
+  <data name="Rule_TaxScale" xml:space="preserve">
+    <value>Агульная</value>
+    <comment/>
+  </data>
+  <data name="Rule_Linear" xml:space="preserve">
+    <value>Лінейная</value>
+    <comment/>
+  </data>
+  <data name="Rule_LumpSum_Limit" xml:space="preserve">
+    <value>Ліміт рычалту</value>
+    <comment/>
+  </data>
+  <data name="Rule_Freelancers" xml:space="preserve">
+    <value>Фрылансеры</value>
+    <comment/>
+  </data>
+  <data name="Rule_RealEstates" xml:space="preserve">
+    <value>🏚️ Нерухомасць</value>
+    <comment/>
+  </data>
+  <data name="Rule_RentalUnder100k" xml:space="preserve">
+    <value>🏚️ Арэнда да 100 тыс. (8,5/12,5%)</value>
+    <comment/>
+  </data>
+  <data name="Rule_RentalOver100k" xml:space="preserve">
+    <value>🏚️ Арэнда больш за 100 тыс.</value>
+    <comment/>
+  </data>
+  <data name="Rule_ConstructionWork" xml:space="preserve">
+    <value>👷‍♂ Будаўнічыя работы</value>
+    <comment/>
+  </data>
+  <data name="Rule_Gastronomy" xml:space="preserve">
+    <value>🍔  Гастраномія</value>
+    <comment/>
+  </data>
+  <data name="Rule_IT_Testers" xml:space="preserve">
+    <value>🧑‍💻 IT (Тэсціроўшчыкі)</value>
+    <comment/>
+  </data>
+  <data name="Rule_IT_Devs" xml:space="preserve">
+    <value>🧑‍💻 IT (Праграмісты)</value>
+    <comment/>
+  </data>
+  <data name="Rule_HealthcareAndArchitects" xml:space="preserve">
+    <value>🏥 Ахова здароўя і архітэктары</value>
+    <comment/>
+  </data>
+  <data name="Rule_TaxFreeAmount" xml:space="preserve">
+    <value>Сума, вольная ад падатку</value>
+    <comment/>
+  </data>
+  <data name="MiddleClassRelief_Bracket1" xml:space="preserve">
+    <value>Ільгота для сярэдняга класу - I парог</value>
+    <comment/>
+  </data>
+  <data name="MiddleClassRelief_Bracket2" xml:space="preserve">
+    <value>Ільгота для сярэдняга класу - II парог</value>
+    <comment/>
+  </data>
+  <data name="Real_Net_Per_Month_Short" xml:space="preserve">
+    <value>На рукі / м</value>
+    <comment/>
+  </data>
+  <data name="Deductible_Health_Contribution_AsCost" xml:space="preserve">
+    <value>Унёскі на ахову здароўя (да ўключэння ў кошты)</value>
+    <comment/>
+  </data>
+  <data name="Deductible_Health_Contribution_FromTax" xml:space="preserve">
+    <value>Унёскі на ахову здароўя (да адлічэння ад падатку)</value>
+    <comment/>
+  </data>
+  <data name="TaxYear_2023_H1" xml:space="preserve">
+    <value>2023 - 🌗 першая палова</value>
+    <comment/>
+  </data>
+  <data name="TaxYear_2023_H2" xml:space="preserve">
+    <value>2023 - 🌓 другая палова</value>
+    <comment/>
+  </data>
+</root>
