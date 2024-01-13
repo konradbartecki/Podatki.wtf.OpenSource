@@ -581,4 +581,10 @@
     <value>2023 - 🌓 другая палова</value>
     <comment/>
   </data>
+  <data name="TaxYear_2024_H1" xml:space="preserve">
+    <value>2024 - 🌗 першая палова</value>
+  </data>
+  <data name="TaxYear_2024_H2" xml:space="preserve">
+    <value>2024 - 🌓 другая палова</value>
+  </data>
 </root>

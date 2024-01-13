@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Header" xml:space="preserve">
+        <value>podatki.wtf 🤷‍♂</value>
+    </data>
+    <data name="Subheader_Part1" xml:space="preserve">
+        <value>Kalkulator wynagrodzeń B2B {0} na Nowy Ład już dostępny!</value>
+    </data>
+    <data name="Net" xml:space="preserve">
+        <value>Netto</value>
+    </data>
+    <data name="Monthly" xml:space="preserve">
+        <value>miesięcznie</value>
+    </data>
+    <data name="Yearly" xml:space="preserve">
+        <value>rocznie</value>
+    </data>
+    <data name="Hourly" xml:space="preserve">
+        <value>godzinowo</value>
+    </data>
+    <data name="Daily" xml:space="preserve">
+        <value>dziennie</value>
+    </data>
+    <data name="Subheader_Part2" xml:space="preserve">
+        <value>Dowiedz się, ile dokładnie 🕵️‍♀️ zarobisz na rękę na samozatrudnieniu. </value>
+    </data>
+    <data name="TaxYear" xml:space="preserve">
+        <value>Rok podatkowy</value>
+    </data>
+    <data name="New" xml:space="preserve">
+        <value>Nowe</value>
+    </data>
+    <data name="ZUS_Rate" xml:space="preserve">
+        <value>Stawka ZUS</value>
+    </data>
+    <data name="TaxYear_2022_v1" xml:space="preserve">
+        <value>2022 - Nowy Polski Ład v1</value>
+    </data>
+    <data name="TaxYear_2022_v2" xml:space="preserve">
+        <value>2022 - Nowy Polski Ład v2</value>
+    </data>
+    <data name="PIT_Type" xml:space="preserve">
+        <value>Typ PITu</value>
+    </data>
+    <data name="TaxYear_2022_v2_description" xml:space="preserve">
+        <value>Wyliczenia do nowej wersji Polskiego Ładu (od 1 lipca 2022 r.) nie są jeszcze do końca znane, więc wyliczenia mogą być niedokładne. </value>
+    </data>
+    <data name="ZUS_Rate_Full" xml:space="preserve">
+        <value>Normalna (duży ZUS)</value>
+    </data>
+    <data name="ZUS_Rate_Preferential" xml:space="preserve">
+        <value>Preferencyjna (2 lata)</value>
+    </data>
+    <data name="ZUS_Rate_StartRelief" xml:space="preserve">
+        <value>Tylko zdrowotny (6 mc) / UoP</value>
+    </data>
+    <data name="ZUS_Rate_ZusPlus" xml:space="preserve">
+        <value>ZUS Plus (do 120k/rok)</value>
+    </data>
+    <data name="TaxYear_IsPreview" xml:space="preserve">
+        <value>Pełne stawki ZUS nie są jeszcze znane, wartości są szacunkowe. Za wartość średniego wynagrodzenia w sektorze przedsiębiorstw w czwartym kwartale przyjęto {0}</value>
+    </data>
+    <data name="PIT_Rate_Scaled" xml:space="preserve">
+        <value>🔰 Skala podatkowa {0}</value>
+    </data>
+    <data name="PIT_Rate_Linear" xml:space="preserve">
+        <value>➖ Liniowa 19%</value>
+    </data>
+    <data name="Lump_Sum" xml:space="preserve">
+        <value>Ryczałt</value>
+    </data>
+    <data name="Sick_Insurance" xml:space="preserve">
+        <value>Składka chorobowa</value>
+    </data>
+    <data name="Statistics" xml:space="preserve">
+        <value>Statystyki</value>
+    </data>
+    <data name="Author" xml:space="preserve">
+        <value>Autor</value>
+    </data>
+    <data name="ZUS_Rate_None" xml:space="preserve">
+        <value>Bez ZUS</value>
+    </data>
+    <data name="Other_Costs" xml:space="preserve">
+        <value>Inne koszty</value>
+    </data>
+    <data name="Other_Costs_Description" xml:space="preserve">
+        <value>Dodatkowe koszty netto (bez VAT) związane z prowadzeniem działalności gospodarczej, np. księgowość, telefon.</value>
+    </data>
+    <data name="Unpaid" xml:space="preserve">
+        <value>Bezpłatnych</value>
+    </data>
+    <data name="Paid" xml:space="preserve">
+        <value>Płatnych</value>
+    </data>
+    <data name="DaysOff" xml:space="preserve">
+        <value>dni urlopu</value>
+    </data>
+    <data name="DaysOff_Description" xml:space="preserve">
+        <value>Porównując z UoP należy doliczyć 26 dni wolnych i opcjonalnie jeszcze 10 dni chorobowych.</value>
+    </data>
+    <data name="DaysOff_AreUnpaid" xml:space="preserve">
+        <value>Twój urlop jest bezpłatny?</value>
+    </data>
+    <data name="DaysOff_ArePaid" xml:space="preserve">
+        <value>Twój urlop jest płatny?</value>
+    </data>
+    <data name="ChangeToHourly" xml:space="preserve">
+        <value>Zmień stawkę na godzinową</value>
+    </data>
+    <data name="ChangeToMonthly" xml:space="preserve">
+        <value>Zmień stawkę na miesięczną</value>
+    </data>
+    <data name="SeeExplaination" xml:space="preserve">
+        <value>Zobacz wytłumaczenie...</value>
+    </data>
+    <data name="ShowSimplified" xml:space="preserve">
+        <value>Pokaż wersję uproszczoną</value>
+    </data>
+    <data name="ShowAdvanced" xml:space="preserve">
+        <value>Pokaż więcej opcji</value>
+    </data>
+    <data name="ZUS_Rate_ZusPlus_PreviousYear" xml:space="preserve">
+        <value>ZUS Plus - Dane za poprzedni rok</value>
+    </data>
+    <data name="Net_Income" xml:space="preserve">
+        <value>Dochód Netto</value>
+    </data>
+    <data name="PLN_perYear" xml:space="preserve">
+        <value>PLN/rok</value>
+    </data>
+    <data name="Activity_Conducted_For" xml:space="preserve">
+        <value>Działalność prowadzona przez</value>
+    </data>
+    <data name="Days_Per_Year" xml:space="preserve">
+        <value>dni/rok</value>
+    </data>
+    <data name="ZUS_Plus_Description" xml:space="preserve">
+        <value>Do wyliczenia ZUS+ potrzebne są dane za poprzedni rok, takie jak liczba dni prowadzenia działalności w roku oraz dochód.
+                Przy tej opcji wyliczenie składki zdrowotnej i funduszu pracy obdywa się na zasadach normalnego ZUSu.
+                Ta opcja ma również progi minimalne i maksymalne, np. na rok 2021 min = 647,59 zł oraz max = 1457,49 zł</value>
+    </data>
+    <data name="Taxation_Type" xml:space="preserve">
+        <value>Typ opodatkowania</value>
+    </data>
+    <data name="Weekly_Working_Hours" xml:space="preserve">
+        <value>Godzin pracy w tygodniu</value>
+    </data>
+    <data name="Hours_Per_Week" xml:space="preserve">
+        <value>h/tydzień</value>
+    </data>
+    <data name="Base_ZUS_Rate" xml:space="preserve">
+        <value>Podstawa wymiaru ZUS</value>
+    </data>
+    <data name="ZUS_Rate_Range" xml:space="preserve">
+        <value>od 60% do 250%</value>
+    </data>
+    <data name="Sick_Days_Per_Year" xml:space="preserve">
+        <value>Dni na chorobowym</value>
+    </data>
+    <data name="Pay_ZUS_While_Sick_Info" xml:space="preserve">
+        <value>Opłacaj ZUS podczas choroby</value>
+    </data>
+    <data name="Net_Monthly" xml:space="preserve">
+        <value>Netto miesięcznie</value>
+    </data>
+    <data name="Real_Net_Per_Month" xml:space="preserve">
+        <value>Do ręki co miesiąc</value>
+    </data>
+    <data name="Net_Hourly" xml:space="preserve">
+        <value>Netto godzinowo</value>
+    </data>
+    <data name="Net_Daily" xml:space="preserve">
+        <value>Netto dziennie</value>
+    </data>
+    <data name="PIT_Per_Month" xml:space="preserve">
+        <value>PIT co miesiąc</value>
+    </data>
+    <data name="ZUS_Per_Month" xml:space="preserve">
+        <value>ZUS co miesiąc</value>
+    </data>
+    <data name="Net_Yearly" xml:space="preserve">
+        <value>Netto rocznie</value>
+    </data>
+    <data name="TaxYear_Tooltip" xml:space="preserve">
+        <value>Dni pracujące w roku bez weekendów i świąt państwowych</value>
+    </data>
+    <data name="Total_Working_Days" xml:space="preserve">
+        <value>Wymiar pracy w {0}</value>
+    </data>
+    <data name="Your_Work_Time" xml:space="preserve">
+        <value>Twój czas pracy</value>
+    </data>
+    <data name="On_Sick_Salary_Total" xml:space="preserve">
+        <value>Łączna wypłata na chorobowym za {0} dni</value>
+    </data>
+    <data name="Tax_Name" xml:space="preserve">
+        <value>Nazwa podatku</value>
+    </data>
+    <data name="Tax_Base" xml:space="preserve">
+        <value>Podstawa</value>
+    </data>
+    <data name="Tax_Percent" xml:space="preserve">
+        <value>Procent</value>
+    </data>
+    <data name="Tax_Amount" xml:space="preserve">
+        <value>Kwota podatku</value>
+    </data>
+    <data name="Tax_Relief_Name" xml:space="preserve">
+        <value>Nazwa ulgi</value>
+    </data>
+    <data name="Real_Net_Per_Hour" xml:space="preserve">
+        <value>Do ręki co godzinę</value>
+    </data>
+    <data name="Real_Net_Per_Day" xml:space="preserve">
+        <value>Do ręki co dzień</value>
+    </data>
+    <data name="Real_Net_Per_Month2" xml:space="preserve">
+        <value>Do ręki co miesiąc</value>
+    </data>
+    <data name="Real_Net_Per_Year" xml:space="preserve">
+        <value>Do ręki rocznie</value>
+    </data>
+    <data name="Yearly_Costs_Deductible" xml:space="preserve">
+        <value>Kosztów łącznie rocznie do odliczenia</value>
+    </data>
+    <data name="Taxable_Base_Amount" xml:space="preserve">
+        <value>Podstawa opodatkowania</value>
+    </data>
+    <data name="Yearly_Tax_Total_Burden" xml:space="preserve">
+        <value>Łączne roczne obciążenie podatkowe (ZUS+PIT+Koszty)</value>
+    </data>
+    <data name="Total_Effective_Rate_Percent" xml:space="preserve">
+        <value>Efektywne całkowite obciążenie podatkowe (ZUS+PIT+Koszty)</value>
+    </data>
+    <data name="Yearly_PIT" xml:space="preserve">
+        <value>PIT rocznie</value>
+    </data>
+    <data name="PIT_Effective_Rate_Percent" xml:space="preserve">
+        <value>Efektywny podatek PIT</value>
+    </data>
+    <data name="Pension_Contribution" xml:space="preserve">
+        <value>Składka emerytalna</value>
+    </data>
+    <data name="Disability_Pension_Contribution" xml:space="preserve">
+        <value>Składka rentowa</value>
+    </data>
+    <data name="Accident_Contribution" xml:space="preserve">
+        <value>Składka wypadkowa</value>
+    </data>
+    <data name="Health_Contribution" xml:space="preserve">
+        <value>Składka zdrowotna</value>
+    </data>
+    <data name="Labour_Fund" xml:space="preserve">
+        <value>Fundusz pracy</value>
+    </data>
+    <data name="Sickness_Insurance" xml:space="preserve">
+        <value>Składka chorobowa</value>
+    </data>
+    <data name="Total_Insurance_Per_Month" xml:space="preserve">
+        <value>Składek ZUS łącznie</value>
+    </data>
+    <data name="Total_Deductible_Insurance_Per_Month" xml:space="preserve">
+        <value>Składki ZUS do odliczenia PIT</value>
+    </data>
+    <data name="Rule_LumpSum_Limit_Note" xml:space="preserve">
+        <value>Uwaga, limit na ryczałt w tym roku to {0}</value>
+    </data>
+    <data name="LumpSum_Rate" xml:space="preserve">
+        <value>Stawka ryczałtu</value>
+    </data>
+    <data name="Your_Work_Time_Tooltip" xml:space="preserve">
+        <value>Wymiar pracy w {0} po odjęciu planowanego urlopu</value>
+    </data>
+    <data name="Issues" xml:space="preserve">
+        <value>Issues</value>
+    </data>
+    <data name="Stats" xml:space="preserve">
+        <value>Statystyki</value>
+    </data>
+    <data name="Update" xml:space="preserve">
+        <value>Aktualizacja</value>
+    </data>
+    <data name="Rule_LumpSum" xml:space="preserve">
+        <value>✳️ Ryczałt</value>
+    </data>
+    <data name="Lump_Sum_Percentage" xml:space="preserve">
+        <value>Ryczałt {0}%</value>
+    </data>
+    <data name="Rule_SolidarityLevy" xml:space="preserve">
+        <value>Opłata solidarnościowa</value>
+    </data>
+    <data name="Rule_TaxScale" xml:space="preserve">
+        <value>Skala podatkowa</value>
+    </data>
+    <data name="Rule_Linear" xml:space="preserve">
+        <value>Liniowa</value>
+    </data>
+    <data name="Rule_LumpSum_Limit" xml:space="preserve">
+        <value>Limit ryczałtu</value>
+    </data>
+    <data name="Rule_Freelancers" xml:space="preserve">
+        <value>Wolne zawody</value>
+    </data>
+    <data name="Rule_RealEstates" xml:space="preserve">
+        <value>🏚️ Nieruchomości</value>
+    </data>
+    <data name="Rule_RentalUnder100k" xml:space="preserve">
+        <value>🏚️ Wynajem do 100k (8.5/12.5%)</value>
+    </data>
+    <data name="Rule_RentalOver100k" xml:space="preserve">
+        <value>🏚️ Wynajem ponad 100k</value>
+    </data>
+    <data name="Rule_ConstructionWork" xml:space="preserve">
+        <value>👷‍♂ Roboty Budowlane</value>
+    </data>
+    <data name="Rule_Gastronomy" xml:space="preserve">
+        <value>🍔  Gastronomia</value>
+    </data>
+    <data name="Rule_IT_Testers" xml:space="preserve">
+        <value>🧑‍💻 IT (Testerzy)</value>
+    </data>
+    <data name="Rule_IT_Devs" xml:space="preserve">
+        <value>🧑‍💻 IT (Programiści)</value>
+    </data>
+    <data name="Rule_HealthcareAndArchitects" xml:space="preserve">
+        <value>🏥 Opieka zdrowotna i architekci</value>
+    </data>
+    <data name="Rule_TaxFreeAmount" xml:space="preserve">
+        <value>Kwota wolna od podatku</value>
+    </data>
+    <data name="MiddleClassRelief_Bracket1" xml:space="preserve">
+        <value>Ulga dla klasy średniej - I próg</value>
+    </data>
+    <data name="MiddleClassRelief_Bracket2" xml:space="preserve">
+        <value>Ulga dla klasy średniej - II próg</value>
+    </data>
+    <data name="Real_Net_Per_Month_Short" xml:space="preserve">
+        <value>Na rękę / m.</value>
+    </data>
+    <data name="Deductible_Health_Contribution_FromTax" xml:space="preserve">
+        <value>Składka zdrowotna (do odliczenia bezpośrednio od podatku)</value>
+    </data>
+    <data name="Deductible_Health_Contribution_AsCost" xml:space="preserve">
+        <value>Składka zdrowotna (do wliczenia w koszty)</value>
+    </data>
+    <data name="TaxYear_2023_H1" xml:space="preserve">
+        <value>2023 - 🌗 pierwsza połowa</value>
+    </data>
+    <data name="TaxYear_2023_H2" xml:space="preserve">
+        <value>2023 - 🌓 druga połowa</value>
+    </data>
+    <data name="TaxYear_2024_H1" xml:space="preserve">
+        <value>2024 - 🌗 pierwsza połowa</value>
+    </data>
+    <data name="TaxYear_2024_H2" xml:space="preserve">
+        <value>2024 - 🌓 druga połowa</value>
+    </data>
+    <data name="RentMacbook" xml:space="preserve">
+        <value>💻 Obniż koszty wypożyczając 16-calowego Macbooka Pro M3 Max za 1699 PLN/m</value>
+    </data>
+    <data name="SubscribeForUpdates" xml:space="preserve">
+        <value>Zapisz się na newsletter a powiemy Ci kiedy będziemy już mieć pełne dane.</value>
+    </data>
+</root>

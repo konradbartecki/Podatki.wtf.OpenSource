@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <root>
-    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-        <xsd:element name="root" msdata:IsDataSet="true">
-            
-        </xsd:element>
-    </xsd:schema>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>
@@ -18,25 +11,25 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Title" xml:space="preserve">
-        <value>Podaj e-mail, na który chcesz dostać informacje o nowościach.</value>
-    </data>
     <data name="Error_IncorrectEmail" xml:space="preserve">
-        <value>Wpisz poprawny email</value>
-    </data>
-    <data name="PleaseConfirm" xml:space="preserve">
-        <value>Już potwierdzam!</value>
-    </data>
-    <data name="Thanks" xml:space="preserve">
-        <value>Dzięki! Za chwilę dostaniesz maila 🙌</value>
-    </data>
-    <data name="Error_Unknown" xml:space="preserve">
-        <value>Niestety coś nie zadziałało, spróbuj ponownie później.</value>
-    </data>
-    <data name="Footer" xml:space="preserve">
-        <value>Zapisując się do newslettera wyrażasz zgodę na otrzymanie informacji o nowościach, promocjach, produktach i usługach "podatki.wtf" oraz "Konrad Bartecki Development" NIP 505-012-6591</value>
+        <value>Put a correct email</value>
     </data>
     <data name="Placeholder" xml:space="preserve">
-        <value>Adres e-mail</value>
+        <value>E-mail address</value>
+    </data>
+    <data name="Footer" xml:space="preserve">
+        <value>Signing up for this newsletter you agree for receiving e-mails about news, promotions, new products and services of "podatki.wtf" and "Konrad Bartecki Development" TAX ID/NIP: 505-012-6591</value>
+    </data>
+    <data name="Error_Unknown" xml:space="preserve">
+        <value>Something went wrong, please try again later.</value>
+    </data>
+    <data name="PleaseConfirm" xml:space="preserve">
+        <value>Send it!</value>
+    </data>
+    <data name="Thanks" xml:space="preserve">
+        <value>Thanks! You'll get an email soon 🙌</value>
+    </data>
+    <data name="Title" xml:space="preserve">
+        <value>Enter the e-mail to which you want to receive news about podatki.wtf.</value>
     </data>
 </root>

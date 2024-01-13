@@ -1,4 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>
@@ -12,21 +19,21 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="Title" xml:space="preserve">
-        <value>Days off explaination</value>
+        <value>Dni urlopu</value>
     </data>
     <data name="Content_Line1" xml:space="preserve">
-        <value>The most popular contracts usually have an hourly/daily rate and unpaid vacation.</value>
+        <value>Najpopularniejsze umowy mają zwykle stawkę godzinową/dzienną i bezpłatne urlopy.</value>
     </data>
     <data name="Content_Line2" xml:space="preserve">
-        <value>Rarely, some companies contract for a fixed monthly rate. e.g. 15,000 PLN every month while offering paid vacation for let's say 20 days.</value>
+        <value>Rzadko kiedy niektóre firmy umawiają się na szytywną stawkę miesięczną. np. 15,000 PLN co miesiąc przy okazji oferując płatny urlop na np. 20 dni.</value>
     </data>
     <data name="Content_Line3" xml:space="preserve">
-        <value>When using the monthly rate, the change in vacation days affects the effective hourly rate:</value>
+        <value>Przy rozliczeniu stawki miesięcznej zmiana dni urlopu wpływa na efektyną stawkę godzinową:</value>
     </data>
     <data name="Content_Line4" xml:space="preserve">
-        <value>- 10,000 PLN/m + 20 days of paid vacation = 64.66 PLN/hour.</value>
+        <value>- 10,000 PLN/m + 20 dni płatnego urlopu = 64,66 PLN/h</value>
     </data>
     <data name="Content_Line5" xml:space="preserve">
-        <value>- 10,000 PLN/m + 40 days of paid vacation = 70.76 PLN/hour (because you work less and still get 10k/m)</value>
+        <value>- 10,000 PLN/m + 40 dni płatnego urlopu = 70,76 PLN/h (bo pracujesz mniej, a dalej dostajesz 10k/m)</value>
     </data>
 </root>

@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <root>
-    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-        <xsd:element name="root" msdata:IsDataSet="true">
-            
-        </xsd:element>
-    </xsd:schema>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>
@@ -19,25 +12,25 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="Title" xml:space="preserve">
-        <value>Aktualizacje</value>
+        <value>Updates</value>
+    </data>
+    <data name="Last_Update" xml:space="preserve">
+        <value>Last update</value>
     </data>
     <data name="2022_02_Update" xml:space="preserve">
         <value>📆2022.02
-Póki co w wyliczeniach nowego Polskiego Ładu (od 1 lipca 2022 r.) w tym kalkulatorze uwzględniono:
- - Pierwszy próg PIT 12%
- - Brak ulgi dla klasy średniej</value>
+For the time being, the calculations of the new Polish Deal (as of July 1, 2022) in this calculator include:
+ - First PIT threshold of 12%
+ - No relief for the middle class</value>
     </data>
     <data name="2022_08_Update" xml:space="preserve">
         <value>📆2023.08
-Dodano obsługę wielu języków
-- Polski
-- Angielski
-- Ukraiński
-- Białoruski
+Added support for multiple languages
+- Polish
+- English
+- Ukrainian
+- Belarusian
 
-Bąbelki z rezultatami będą teraz wyświetlać konwersje pieniędzy na inne waluty.</value>
-    </data>
-    <data name="Last_Update" xml:space="preserve">
-        <value>Ostatnia aktualizacja</value>
+Result bubbles will now show a conversion for other currencies</value>
     </data>
 </root>

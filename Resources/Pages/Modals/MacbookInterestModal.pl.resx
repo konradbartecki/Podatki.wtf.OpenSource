@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Title" xml:space="preserve">
+        <value>Skontaktujemy się z tobą za chwilę</value>
+    </data>
+    <data name="Error_IncorrectPhone" xml:space="preserve">
+        <value>Wpisz poprawny numer telefonu</value>
+    </data>
+    <data name="PleaseConfirm" xml:space="preserve">
+        <value>Już potwierdzam!</value>
+    </data>
+    <data name="Thanks" xml:space="preserve">
+        <value>Dzięki! To wszystko ✅ Skontaktujemy się z Tobą jak najszybciej!</value>
+    </data>
+    <data name="Error_Unknown" xml:space="preserve">
+        <value>Niestety coś nie zadziałało, spróbuj ponownie później.</value>
+    </data>
+    <data name="Footer" xml:space="preserve">
+        <value>Zapisując się do newslettera wyrażasz zgodę na otrzymanie informacji o nowościach, promocjach, produktach i usługach "podatki.wtf" oraz "Konrad Bartecki Development" NIP 505-012-6591</value>
+    </data>
+    <data name="Placeholder" xml:space="preserve">
+        <value>Numer telefonu</value>
+    </data>
+    <data name="GrossPerMonth" xml:space="preserve">
+        <value>brutto / miesiąc</value>
+    </data>
+    <data name="NetPerMonth" xml:space="preserve">
+        <value>netto / miesiąc</value>
+    </data>
+    <data name="Insurance" xml:space="preserve">
+        <value>🛡️ Ubezpieczenie:</value>
+    </data>
+    <data name="InsuranceValue" xml:space="preserve">
+        <value>Wliczone (zawiera ochronę przed przypadkowym uszkodzeniem)</value>
+    </data>
+    <data name="Contract" xml:space="preserve">
+        <value>📅 Długość kontraktu:</value>
+    </data>
+    <data name="ContractValue" xml:space="preserve">
+        <value>1 miesiąc</value>
+    </data>
+    <data name="StorageSpace" xml:space="preserve">
+        <value>💾 Pojemność dysku:</value>
+    </data>
+    <data name="KeyboardLayout" xml:space="preserve">
+        <value>⌨️ Układ klawiatury:</value>
+    </data>
+    <data name="Invoice" xml:space="preserve">
+        <value>💵 Faktura VAT do odliczenia
+</value>
+    </data>
+    <data name="CompareAgainstYourPc" xml:space="preserve">
+        <value>Sprawdź jak wypada Twój komputer</value>
+    </data>
+    <data name="DownloadGeekBench" xml:space="preserve">
+        <value>Pobierz GeekBench</value>
+    </data>
+    <data name="Delivery" xml:space="preserve">
+        <value>🚚 Dostawa na terenie Warszawy w przeciągu 1 godziny poprzez Uber</value>
+    </data>
+    <data name="Interested" xml:space="preserve">
+        <value>Chcę wiedzieć więcej</value>
+    </data>
+    <data name="Close" xml:space="preserve">
+        <value>Zamknij</value>
+    </data>
+</root>

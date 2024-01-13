@@ -11,13 +11,7 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="PageTitle" xml:space="preserve">
-        <value>B2B tax calculator for Poland {0}</value>
-    </data>
-    <data name="Keywords" xml:space="preserve">
-        <value>Tax calculator, Poland, B2B, contractor, business, jdg, after tax, self-employed</value>
-    </data>
-    <data name="Description" xml:space="preserve">
-        <value>Tax calculator {0} for B2B contractors. Compare rates hourly, daily, monthly with days off and in multiple currencies.</value>
+    <data name="Contract" xml:space="preserve">
+        <value>📅 Contract Duration:</value>
     </data>
 </root>

@@ -365,4 +365,10 @@
     <data name="TaxYear_2023_H2" xml:space="preserve">
         <value>2023 - 🌓 second half</value>
     </data>
+    <data name="TaxYear_2024_H1" xml:space="preserve">
+        <value>2024 - 🌗 first half</value>
+    </data>
+    <data name="TaxYear_2024_H2" xml:space="preserve">
+        <value>2024 - 🌓 second half</value>
+    </data>
 </root>
