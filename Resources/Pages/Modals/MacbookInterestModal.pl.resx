@@ -82,4 +82,7 @@
     <data name="Close" xml:space="preserve">
         <value>Zamknij</value>
     </data>
+    <data name="PlaceholderName" xml:space="preserve">
+        <value>Twoje imię</value>
+    </data>
 </root>

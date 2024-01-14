@@ -68,4 +68,7 @@
     <data name="Title" xml:space="preserve">
         <value>We will reach out to you</value>
     </data>
+    <data name="PlaceholderName" xml:space="preserve">
+        <value>Your name</value>
+    </data>
 </root>
