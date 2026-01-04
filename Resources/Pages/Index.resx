@@ -377,4 +377,64 @@
     <data name="SubscribeForUpdates" xml:space="preserve">
         <value>Subscribe for updates and we will let you know once we will know the medical insurance data.</value>
     </data>
+    <data name="VAT_Payer" xml:space="preserve">
+        <value>VAT payer</value>
+    </data>
+    <data name="VAT_Settings" xml:space="preserve">
+        <value>VAT Settings</value>
+    </data>
+    <data name="VAT_Income_Rate" xml:space="preserve">
+        <value>VAT on income</value>
+    </data>
+    <data name="VAT_Costs_Rate" xml:space="preserve">
+        <value>VAT on costs</value>
+    </data>
+    <data name="VAT_Nalezny_Monthly" xml:space="preserve">
+        <value>VAT due monthly</value>
+    </data>
+    <data name="VAT_Naliczony_Monthly" xml:space="preserve">
+        <value>VAT deductible monthly</value>
+    </data>
+    <data name="VAT_To_Pay_Monthly" xml:space="preserve">
+        <value>VAT (added to invoice)</value>
+    </data>
+    <data name="VAT_To_Pay_Tooltip" xml:space="preserve">
+        <value>You add this amount to your invoice. The client pays it. You transfer it to the tax office. It is NOT deducted from your income. Click to change settings.</value>
+    </data>
+    <data name="VAT_To_Refund_Monthly" xml:space="preserve">
+        <value>VAT refund monthly</value>
+    </data>
+    <data name="Joint_Tax_Filing" xml:space="preserve">
+        <value>Joint tax filing with spouse</value>
+    </data>
+    <data name="Joint_Filing_Settings" xml:space="preserve">
+        <value>Joint Filing Settings</value>
+    </data>
+    <data name="Spouse_Income_Type" xml:space="preserve">
+        <value>Spouse income</value>
+    </data>
+    <data name="Spouse_No_Income" xml:space="preserve">
+        <value>No income</value>
+    </data>
+    <data name="Spouse_Has_Income" xml:space="preserve">
+        <value>Has income</value>
+    </data>
+    <data name="Spouse_Yearly_Income" xml:space="preserve">
+        <value>Spouse yearly income</value>
+    </data>
+    <data name="Joint_Filing_Description" xml:space="preserve">
+        <value>Joint filing allows splitting income with spouse, potentially lowering tax bracket.</value>
+    </data>
+    <data name="Joint_Tax_Savings_Yearly" xml:space="preserve">
+        <value>Joint filing savings yearly</value>
+    </data>
+    <data name="Click_To_Change" xml:space="preserve">
+        <value>Click to change</value>
+    </data>
+    <data name="VAT_Saved_Monthly" xml:space="preserve">
+        <value>VAT saved monthly</value>
+    </data>
+    <data name="VAT_Added_Monthly" xml:space="preserve">
+        <value>+ VAT monthly</value>
+    </data>
 </root>

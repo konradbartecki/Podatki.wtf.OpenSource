@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <data name="Title" xml:space="preserve">
+        <value>Ustawienia VAT</value>
+    </data>
+    <data name="VAT_Income_Rate" xml:space="preserve">
+        <value>Stawka VAT od przychodu</value>
+    </data>
+    <data name="VAT_Costs_Rate" xml:space="preserve">
+        <value>Stawka VAT od kosztów</value>
+    </data>
+    <data name="VAT_Income_Help" xml:space="preserve">
+        <value>Stawka VAT na fakturach wystawianych klientom</value>
+    </data>
+    <data name="VAT_Costs_Help" xml:space="preserve">
+        <value>Stawka VAT na kosztach firmowych do odliczenia</value>
+    </data>
+    <data name="Close" xml:space="preserve">
+        <value>Zamknij</value>
+    </data>
+    <data name="Vat_Explanation_Header" xml:space="preserve">
+        <value>Jak działa VAT</value>
+    </data>
+    <data name="Vat_Explanation_Domestic" xml:space="preserve">
+        <value>Krajowy (PL-PL): Doliczasz {0} VAT do faktury. Płaci go klient, a Ty przekazujesz do urzędu. To nie jest Twój przychód.</value>
+    </data>
+    <data name="Vat_Explanation_Foreign" xml:space="preserve">
+        <value>Zagraniczny (B2B): Stawka 0% (Odwrotne obciążenie). Nie płacisz podatku od sprzedaży, a Urząd zwraca Ci VAT z zakupów!</value>
+    </data>
+    <data name="Vat_Explanation_Payment" xml:space="preserve">
+        <value>Zasada płatności: Płacisz VAT do urzędu tylko wtedy, gdy otrzymasz go od klienta</value>
+    </data>
+    <data name="Vat_Explanation_Deduction" xml:space="preserve">
+        <value>Korzyść na Ryczałcie: Koszty nie obniżają PIT, ale jako VAT-owiec odzyskujesz {0} ceny zakupów (VAT) z urzędu.</value>
+    </data>
+</root>

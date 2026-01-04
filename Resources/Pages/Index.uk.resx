@@ -371,4 +371,13 @@
     <data name="TaxYear_2024_H2" xml:space="preserve">
         <value>2024 - 🌓 друга половина</value>
     </data>
+    <data name="VAT_To_Pay_Monthly" xml:space="preserve">
+        <value>VAT (added to invoice)</value>
+    </data>
+    <data name="VAT_To_Pay_Tooltip" xml:space="preserve">
+        <value>You add this amount to your invoice. The client pays it. You transfer it to the tax office. It is NOT deducted from your income.</value>
+    </data>
+    <data name="VAT_Added_Monthly" xml:space="preserve">
+        <value>+ VAT monthly</value>
+    </data>
 </root>

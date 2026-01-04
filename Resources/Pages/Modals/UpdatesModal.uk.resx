@@ -12,25 +12,39 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="Title" xml:space="preserve">
-        <value>Оновлення</value>
+        <value>Що нового</value>
     </data>
-    <data name="Last_Update" xml:space="preserve">
-        <value>Останнє оновлення</value>
+    <data name="2026_01_Item1" xml:space="preserve">
+        <value>Калькулятор ПДВ - розрахунок ПДВ з доходу та витрат з різними ставками (23%, 8%, 5%, 0%)</value>
     </data>
-    <data name="2022_02_Update" xml:space="preserve">
-        <value>📆2022.02
-На даний момент розрахунки нового Польського Ладу (з 1 липня 2022 року) в цьому калькуляторі включають наступне:
- - Перший поріг PIT 12%
- - Ніяких пільг для середнього класу</value>
+    <data name="2026_01_Item2" xml:space="preserve">
+        <value>Спільна декларація з подружжям - введіть дохід партнера для точних розрахунків</value>
     </data>
-    <data name="2022_08_Update" xml:space="preserve">
-        <value>📆2023.08
-Додано багатомовну підтримку
-- Польська
-- Англійська
-- Українська
-- Білоруська
-
-Блоки результатів тепер показуватимуть конвертацію для інших валют</value>
+    <data name="2026_01_Item3" xml:space="preserve">
+        <value>Податковий рік 2026 з оновленими ставками та порогами</value>
+    </data>
+    <data name="2025_01_Item1" xml:space="preserve">
+        <value>Податковий рік 2025 з офіційними значеннями внесків ZUS</value>
+    </data>
+    <data name="2025_01_Item2" xml:space="preserve">
+        <value>Оновлені ставки медичного та соціального страхування</value>
+    </data>
+    <data name="2024_Item1" xml:space="preserve">
+        <value>Податковий рік 2024 з усіма фінальними ставками</value>
+    </data>
+    <data name="2024_Item2" xml:space="preserve">
+        <value>Оновлені внески ZUS на 2024 рік</value>
+    </data>
+    <data name="2023_08_Item1" xml:space="preserve">
+        <value>Багатомовна підтримка: польська, англійська, українська, білоруська</value>
+    </data>
+    <data name="2023_08_Item2" xml:space="preserve">
+        <value>Конвертація валют у результатах (EUR, USD, UAH)</value>
+    </data>
+    <data name="2022_02_Item1" xml:space="preserve">
+        <value>Польський Лад 2.0 (липень 2022) - ставка PIT 12% у першому порозі</value>
+    </data>
+    <data name="2022_02_Item2" xml:space="preserve">
+        <value>Видалено розрахунок пільги для середнього класу</value>
     </data>
 </root>

@@ -587,4 +587,7 @@
   <data name="TaxYear_2024_H2" xml:space="preserve">
     <value>2024 - 🌓 другая палова</value>
   </data>
+    <data name="VAT_Added_Monthly" xml:space="preserve">
+        <value>+ VAT monthly</value>
+    </data>
 </root>

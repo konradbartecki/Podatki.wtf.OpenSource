@@ -1,108 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!--
-    Microsoft ResX Schema
-
-    Version 2.0
-
-    The primary goals of this format is to allow a simple XML format
-    that is mostly human readable. The generation and parsing of the
-    various data types are done through the TypeConverter classes
-    associated with the data types.
-
-    Example:
-
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-
-    There are any number of "resheader" rows that contain simple
-    name/value pairs.
-
-    Each data row contains a name, and value. The row also contains a
-    type or mimetype. Type corresponds to a .NET class that support
-    text/value conversion through the TypeConverter architecture.
-    Classes that don't support this are serialized and stored with the
-    mimetype set.
-
-    The mimetype is used for serialized objects, and tells the
-    ResXResourceReader how to depersist the object. This is currently not
-    extensible. For a given mimetype the value must be set accordingly:
-
-    Note - application/x-microsoft.net.object.binary.base64 is the format
-    that the ResXResourceWriter will generate, however the reader can
-    read any of the formats listed below.
-
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
     </xsd:element>
   </xsd:schema>
   <resheader name="resmimetype">
@@ -118,29 +18,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Абнаўленні</value>
-    <comment/>
+    <value>Што новага</value>
   </data>
-  <data name="2022_02_Update" xml:space="preserve">
-    <value>📆2022.02
-Пакуль разлікі новага Польскага Ладу (з 1 ліпеня 2022 г.) у гэтым калькулятары ўключаюць:
-- першы парог PIT 12%
-- без ільготы для сярэдняга класа</value>
-    <comment/>
+  <data name="2026_01_Item1" xml:space="preserve">
+    <value>Калькулятар ПДВ - разлік ПДВ з даходу і выдаткаў з рознымі стаўкамі (23%, 8%, 5%, 0%)</value>
   </data>
-  <data name="2022_08_Update" xml:space="preserve">
-    <value>📆2023.08
-Даданая падтрымка некалькіх моў
-- Польская
-- Англійская
-- Украінская 
-- Беларуская
-
-Блокі з вынікамі цяпер будуць адлюстроўваць канверсіі грошай у іншыя валюты.</value>
-    <comment/>
+  <data name="2026_01_Item2" xml:space="preserve">
+    <value>Сумеснае дэкларавання з сужэнцам - увядзіце даход партнёра для дакладных разлікаў</value>
   </data>
-  <data name="Last_Update" xml:space="preserve">
-    <value>Апошняе абнаўленне</value>
-    <comment/>
+  <data name="2026_01_Item3" xml:space="preserve">
+    <value>Падатковы год 2026 з абноўленымі стаўкамі і парогамі</value>
+  </data>
+  <data name="2025_01_Item1" xml:space="preserve">
+    <value>Падатковы год 2025 з афіцыйнымі значэннямі ўнёскаў ZUS</value>
+  </data>
+  <data name="2025_01_Item2" xml:space="preserve">
+    <value>Абноўленыя стаўкі медыцынскага і сацыяльнага страхавання</value>
+  </data>
+  <data name="2024_Item1" xml:space="preserve">
+    <value>Падатковы год 2024 з усімі канчатковымі стаўкамі</value>
+  </data>
+  <data name="2024_Item2" xml:space="preserve">
+    <value>Абноўленыя ўнёскі ZUS на 2024 год</value>
+  </data>
+  <data name="2023_08_Item1" xml:space="preserve">
+    <value>Шматмоўная падтрымка: польская, англійская, украінская, беларуская</value>
+  </data>
+  <data name="2023_08_Item2" xml:space="preserve">
+    <value>Канвертацыя валют у выніках (EUR, USD, UAH)</value>
+  </data>
+  <data name="2022_02_Item1" xml:space="preserve">
+    <value>Польскі Лад 2.0 (ліпень 2022) - стаўка PIT 12% у першым парозе</value>
+  </data>
+  <data name="2022_02_Item2" xml:space="preserve">
+    <value>Выдалены разлік ільготы для сярэдняга класа</value>
   </data>
 </root>
