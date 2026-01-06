@@ -587,7 +587,19 @@
   <data name="TaxYear_2024_H2" xml:space="preserve">
     <value>2024 - 🌓 другая палова</value>
   </data>
+  <data name="TaxYear_2025" xml:space="preserve">
+    <value>2025</value>
+  </data>
+  <data name="TaxYear_2026" xml:space="preserve">
+    <value>2026</value>
+  </data>
     <data name="VAT_Added_Monthly" xml:space="preserve">
-        <value>+ VAT monthly</value>
+        <value>+ VAT штомесяц</value>
+    </data>
+    <data name="VAT_Saved_Monthly" xml:space="preserve">
+        <value>VAT ашчаджана штомесяц</value>
+    </data>
+    <data name="VAT_To_Pay_Tooltip" xml:space="preserve">
+        <value>Вы дадаеце гэтую суму ў свой інвойс. Кліент яе аплачвае, а вы пералічваеце ў падатковую. Гэта НЕ адымаецца з вашага даходу. Націсніце, каб змяніць налады.</value>
     </data>
 </root>

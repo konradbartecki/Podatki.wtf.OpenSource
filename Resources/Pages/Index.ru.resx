@@ -371,7 +371,19 @@
     <data name="TaxYear_2024_H2" xml:space="preserve">
         <value>2024 - 🌓 second half</value>
     </data>
+    <data name="TaxYear_2025" xml:space="preserve">
+        <value>2025</value>
+    </data>
+    <data name="TaxYear_2026" xml:space="preserve">
+        <value>2026</value>
+    </data>
     <data name="VAT_Added_Monthly" xml:space="preserve">
-        <value>+ VAT monthly</value>
+        <value>+ VAT в месяц</value>
+    </data>
+    <data name="VAT_Saved_Monthly" xml:space="preserve">
+        <value>VAT сэкономлено ежемесячно</value>
+    </data>
+    <data name="VAT_To_Pay_Tooltip" xml:space="preserve">
+        <value>Вы добавляете эту сумму в собственный счет. Клиент ее оплачивает, а вы перечисляете в налоговую. Это НЕ вычитается из вашей прибыли. Нажмите, чтобы изменить настройки.</value>
     </data>
 </root>

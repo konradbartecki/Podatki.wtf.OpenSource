@@ -371,6 +371,12 @@
     <data name="TaxYear_2024_H2" xml:space="preserve">
         <value>2024 - 🌓 second half</value>
     </data>
+    <data name="TaxYear_2025" xml:space="preserve">
+        <value>2025</value>
+    </data>
+    <data name="TaxYear_2026" xml:space="preserve">
+        <value>2026</value>
+    </data>
     <data name="RentMacbook" xml:space="preserve">
         <value>💻 Rent a tax-deductible 16 inch MacBook Pro M3 Max starting from 1699 PLN/mo</value>
     </data>
@@ -403,30 +409,6 @@
     </data>
     <data name="VAT_To_Refund_Monthly" xml:space="preserve">
         <value>VAT refund monthly</value>
-    </data>
-    <data name="Joint_Tax_Filing" xml:space="preserve">
-        <value>Joint tax filing with spouse</value>
-    </data>
-    <data name="Joint_Filing_Settings" xml:space="preserve">
-        <value>Joint Filing Settings</value>
-    </data>
-    <data name="Spouse_Income_Type" xml:space="preserve">
-        <value>Spouse income</value>
-    </data>
-    <data name="Spouse_No_Income" xml:space="preserve">
-        <value>No income</value>
-    </data>
-    <data name="Spouse_Has_Income" xml:space="preserve">
-        <value>Has income</value>
-    </data>
-    <data name="Spouse_Yearly_Income" xml:space="preserve">
-        <value>Spouse yearly income</value>
-    </data>
-    <data name="Joint_Filing_Description" xml:space="preserve">
-        <value>Joint filing allows splitting income with spouse, potentially lowering tax bracket.</value>
-    </data>
-    <data name="Joint_Tax_Savings_Yearly" xml:space="preserve">
-        <value>Joint filing savings yearly</value>
     </data>
     <data name="Click_To_Change" xml:space="preserve">
         <value>Click to change</value>

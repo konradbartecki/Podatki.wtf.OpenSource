@@ -1,0 +1,47 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Title" xml:space="preserve">
+        <value>Налаштування VAT</value>
+    </data>
+    <data name="VAT_Income_Rate" xml:space="preserve">
+        <value>Ставка VAT на дохід</value>
+    </data>
+    <data name="VAT_Costs_Rate" xml:space="preserve">
+        <value>Ставка VAT на витрати</value>
+    </data>
+    <data name="VAT_Income_Help" xml:space="preserve">
+        <value>Ставка VAT, зазначена у ваших інвойсах клієнтам</value>
+    </data>
+    <data name="VAT_Costs_Help" xml:space="preserve">
+        <value>Ставка VAT на ділові витрати, які ви можете вирахувати</value>
+    </data>
+    <data name="Close" xml:space="preserve">
+        <value>Закрити</value>
+    </data>
+    <data name="Vat_Explanation_Header" xml:space="preserve">
+        <value>Як працює VAT</value>
+    </data>
+    <data name="Vat_Explanation_Domestic" xml:space="preserve">
+        <value>Внутрішній (PL-PL): Ви додаєте {0} VAT до інвойсу. Клієнт його сплачує, а ви перераховуєте до податкової. Це не ваш дохід.</value>
+    </data>
+    <data name="Vat_Explanation_Foreign" xml:space="preserve">
+        <value>Іноземний (B2B): Ставка 0% (Reverse Charge). Ви не сплачуєте податок з продажів, але зазвичай отримуєте ПОВЕРНЕННЯ за VAT, сплачений при покупках.</value>
+    </data>
+    <data name="Vat_Explanation_Payment" xml:space="preserve">
+        <value>Правило оплати: Ви сплачуєте VAT до податкової лише у тому випадку, якщо отримали його від клієнта</value>
+    </data>
+    <data name="Vat_Explanation_Deduction" xml:space="preserve">
+        <value>Перевага на Ryczałt: На ричалті ви не можете вираховувати витрати з прибуткового податку, АЛЕ як платник VAT ви повертаєте {0} витрат з податкової.</value>
+    </data>
+</root>

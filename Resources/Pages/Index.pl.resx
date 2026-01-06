@@ -374,6 +374,12 @@
     <data name="TaxYear_2024_H2" xml:space="preserve">
         <value>2024 - 🌓 druga połowa</value>
     </data>
+    <data name="TaxYear_2025" xml:space="preserve">
+        <value>2025</value>
+    </data>
+    <data name="TaxYear_2026" xml:space="preserve">
+        <value>2026</value>
+    </data>
     <data name="RentMacbook" xml:space="preserve">
         <value>💻 Obniż koszty wypożyczając 16-calowego Macbooka Pro M3 Max za 1699 PLN/m</value>
     </data>
@@ -406,30 +412,6 @@
     </data>
     <data name="VAT_To_Refund_Monthly" xml:space="preserve">
         <value>VAT do zwrotu miesięcznie</value>
-    </data>
-    <data name="Joint_Tax_Filing" xml:space="preserve">
-        <value>Rozliczenie wspólne z małżonkiem</value>
-    </data>
-    <data name="Joint_Filing_Settings" xml:space="preserve">
-        <value>Ustawienia rozliczenia wspólnego</value>
-    </data>
-    <data name="Spouse_Income_Type" xml:space="preserve">
-        <value>Dochód małżonka</value>
-    </data>
-    <data name="Spouse_No_Income" xml:space="preserve">
-        <value>Brak dochodu</value>
-    </data>
-    <data name="Spouse_Has_Income" xml:space="preserve">
-        <value>Ma dochód</value>
-    </data>
-    <data name="Spouse_Yearly_Income" xml:space="preserve">
-        <value>Roczny dochód małżonka</value>
-    </data>
-    <data name="Joint_Filing_Description" xml:space="preserve">
-        <value>Rozliczenie wspólne pozwala na podzielenie dochodu z małżonkiem, potencjalnie obniżając próg podatkowy.</value>
-    </data>
-    <data name="Joint_Tax_Savings_Yearly" xml:space="preserve">
-        <value>Oszczędność z rozliczenia wspólnego rocznie</value>
     </data>
     <data name="Click_To_Change" xml:space="preserve">
         <value>Kliknij aby zmienić</value>
