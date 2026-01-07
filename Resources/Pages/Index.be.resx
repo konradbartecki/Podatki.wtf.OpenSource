@@ -593,6 +593,30 @@
   <data name="TaxYear_2026" xml:space="preserve">
     <value>2026</value>
   </data>
+    <data name="VAT_Payer" xml:space="preserve">
+        <value>Плацельшчык VAT</value>
+    </data>
+    <data name="VAT_Settings" xml:space="preserve">
+        <value>Налады VAT</value>
+    </data>
+    <data name="VAT_Income_Rate" xml:space="preserve">
+        <value>VAT на даход</value>
+    </data>
+    <data name="VAT_Costs_Rate" xml:space="preserve">
+        <value>VAT на выдаткі</value>
+    </data>
+    <data name="VAT_Nalezny_Monthly" xml:space="preserve">
+        <value>Налічаны VAT штомесяц</value>
+    </data>
+    <data name="VAT_Naliczony_Monthly" xml:space="preserve">
+        <value>Адымаемы VAT штомесяц</value>
+    </data>
+    <data name="VAT_To_Pay_Monthly" xml:space="preserve">
+        <value>VAT (дадаецца да рахунку)</value>
+    </data>
+    <data name="VAT_To_Refund_Monthly" xml:space="preserve">
+        <value>Вяртанне VAT штомесяц</value>
+    </data>
     <data name="VAT_Added_Monthly" xml:space="preserve">
         <value>+ VAT штомесяц</value>
     </data>

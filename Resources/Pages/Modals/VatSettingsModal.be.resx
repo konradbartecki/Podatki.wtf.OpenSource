@@ -15,19 +15,37 @@
             PublicKeyToken=b77a5c561934e089
         </value>
     </resheader>
+    <data name="Title" xml:space="preserve">
+        <value>Налады VAT</value>
+    </data>
+    <data name="VAT_Income_Rate" xml:space="preserve">
+        <value>Стаўка VAT на даход</value>
+    </data>
+    <data name="VAT_Costs_Rate" xml:space="preserve">
+        <value>Стаўка VAT на выдаткі</value>
+    </data>
+    <data name="VAT_Income_Help" xml:space="preserve">
+        <value>Стаўка VAT, указаная ў вашых рахунках кліентам</value>
+    </data>
+    <data name="VAT_Costs_Help" xml:space="preserve">
+        <value>Стаўка VAT на бізнес-выдаткі, якія вы можаце адняць</value>
+    </data>
+    <data name="Close" xml:space="preserve">
+        <value>Закрыць</value>
+    </data>
     <data name="Vat_Explanation_Header" xml:space="preserve">
-        <value>How VAT works</value>
+        <value>Як працуе VAT</value>
     </data>
     <data name="Vat_Explanation_Domestic" xml:space="preserve">
-        <value>Domestic (PL-PL): You add {0} VAT to the invoice. The client pays it, and you transfer it to the office. It's not your income.</value>
+        <value>Унутраны (PL-PL): Вы дадаеце {0} VAT да рахунку. Кліент яго аплачвае, а вы пералічваеце ў падатковую. Гэта не ваш даход.</value>
     </data>
     <data name="Vat_Explanation_Foreign" xml:space="preserve">
-        <value>Foreign (B2B): 0% Rate (Reverse Charge). You don't pay tax on sales, but you typically get a REFUND for VAT paid on purchases.</value>
+        <value>Замежны (B2B): Стаўка 0% (Reverse Charge). Вы не плаціце падатак з продажаў, але звычайна атрымліваеце ВЯРТАННЕ за VAT, выплачаны пры пакупках.</value>
     </data>
     <data name="Vat_Explanation_Payment" xml:space="preserve">
-        <value>Payment Rule: You only pay VAT to the office if you received it from the client</value>
+        <value>Правіла аплаты: Вы плаціце VAT у падатковую толькі ў тым выпадку, калі атрымалі яго ад кліента</value>
     </data>
     <data name="Vat_Explanation_Deduction" xml:space="preserve">
-        <value>Lump Sum Benefit: On Ryczałt, you can't deduct costs from Income Tax, BUT as a VAT payer you recover {0} of expenses from the Tax Office.</value>
+        <value>Перавага на Ryczałt: На рычалце вы не можаце адымаць выдаткі з падаходнага падатку, АЛЕ як плацельшчык VAT вы вяртаеце {0} выдаткаў з падатковай.</value>
     </data>
 </root>
