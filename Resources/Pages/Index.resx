@@ -419,4 +419,7 @@
     <data name="VAT_Added_Monthly" xml:space="preserve">
         <value>+ VAT monthly</value>
     </data>
+    <data name="Gross_Monthly" xml:space="preserve">
+        <value>Gross per month (Net + VAT)</value>
+    </data>
 </root>

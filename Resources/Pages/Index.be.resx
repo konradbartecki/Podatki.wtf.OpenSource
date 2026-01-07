@@ -620,10 +620,7 @@
     <data name="VAT_Added_Monthly" xml:space="preserve">
         <value>+ VAT штомесяц</value>
     </data>
-    <data name="VAT_Saved_Monthly" xml:space="preserve">
-        <value>VAT ашчаджана штомесяц</value>
-    </data>
-    <data name="VAT_To_Pay_Tooltip" xml:space="preserve">
-        <value>Вы дадаеце гэтую суму ў свой інвойс. Кліент яе аплачвае, а вы пералічваеце ў падатковую. Гэта НЕ адымаецца з вашага даходу. Націсніце, каб змяніць налады.</value>
+    <data name="Gross_Monthly" xml:space="preserve">
+        <value>Брута штомесяц (Нэта + VAT)</value>
     </data>
 </root>
