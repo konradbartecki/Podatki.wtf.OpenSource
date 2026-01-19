@@ -420,6 +420,12 @@
         <value>+ VAT monthly</value>
     </data>
     <data name="Gross_Monthly" xml:space="preserve">
-        <value>Gross per month (Net + VAT)</value>
+        <value>Gross Monthly (Net + VAT)</value>
+    </data>
+    <data name="SEO_Footer_Title" xml:space="preserve">
+        <value>B2B Calculator Poland for IT Contractors &amp; Self-Employed</value>
+    </data>
+    <data name="SEO_Footer_Text" xml:space="preserve">
+        <value>Use this free B2B calculator to compute your net salary in Poland. Compare taxation forms: Lump Sum (Ryczałt), Linear Tax, and Tax Scale. Calculate ZUS and VAT for the current year. The best tool for expats, freelancers, and IT professionals starting a business in Poland.</value>
     </data>
 </root>

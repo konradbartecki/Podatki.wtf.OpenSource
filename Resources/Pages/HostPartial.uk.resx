@@ -12,12 +12,12 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="PageTitle" xml:space="preserve">
-        <value>B2B Податковий калькулятор {0} - podatki.wtf</value>
+        <value>Калькулятор податків Польща {0} - B2B Зарплата - Podatki.wtf</value>
     </data>
     <data name="Keywords" xml:space="preserve">
-        <value>Податковий калькулятор, Польща, B2B, контрактор, бізнес, jdg, після оподаткування, ФОП</value>
+        <value>Калькулятор податків Польща, B2B Калькулятор, Зарплата Польща, ФОП Польща, Netto Brutto, JDG, Самозайнятість, Податки в Польщі</value>
     </data>
     <data name="Description" xml:space="preserve">
-        <value>Податковий калькулятор {0} для B2B контракторів. Порівняйте тарифи погодинно, щоденно, щомісячно, з урахуванням вихідних і в різних валютах.</value>
+        <value>Безкоштовний калькулятор податків B2B у Польщі {0}. Розрахуйте чисту зарплату (Netto), VAT та ZUS для ФОП (JDG). Порівняння податкових систем.</value>
     </data>
 </root>

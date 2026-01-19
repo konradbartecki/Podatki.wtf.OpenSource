@@ -386,4 +386,10 @@
     <data name="VAT_Added_Monthly" xml:space="preserve">
         <value>+ VAT щомісяця</value>
     </data>
+    <data name="SEO_Footer_Title" xml:space="preserve">
+        <value>Калькулятор податків B2B для IT та ФОП у Польщі</value>
+    </data>
+    <data name="SEO_Footer_Text" xml:space="preserve">
+        <value>Використовуйте цей безкоштовний калькулятор, щоб розрахувати чисту зарплату (Netto). Порівняйте форми оподаткування: Ryczałt, Лінійний податок та Податкова шкала. Дізнайтеся, скільки ZUS та VAT потрібно платити цього року. Найкращий інструмент для фрілансерів та IT-спеціалістів.</value>
+    </data>
 </root>

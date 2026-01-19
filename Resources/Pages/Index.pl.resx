@@ -22,7 +22,7 @@
         <value>podatki.wtf 🤷‍♂</value>
     </data>
     <data name="Subheader_Part1" xml:space="preserve">
-        <value>Kalkulator wynagrodzeń B2B {0} na Nowy Ład już dostępny!</value>
+        <value>Kalkulator wynagrodzeń B2B {0}</value>
     </data>
     <data name="Net" xml:space="preserve">
         <value>Netto</value>
@@ -424,5 +424,11 @@
     </data>
     <data name="Gross_Monthly" xml:space="preserve">
         <value>Brutto miesięcznie (Netto + VAT)</value>
+    </data>
+    <data name="SEO_Footer_Title" xml:space="preserve">
+        <value>Kalkulator B2B dla Programistów IT i JDG</value>
+    </data>
+    <data name="SEO_Footer_Text" xml:space="preserve">
+        <value>Skorzystaj z darmowego kalkulatora B2B, aby obliczyć swoje wynagrodzenie netto. Porównaj formy opodatkowania: Ryczałt, Podatek Liniowy i Skalę Podatkową. Sprawdź ile zapłacisz ZUS i VAT w tym roku. Idealne narzędzie dla samozatrudnionych, freelancerów i specjalistów IT w Polsce.</value>
     </data>
 </root>

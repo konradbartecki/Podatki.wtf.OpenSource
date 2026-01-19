@@ -623,4 +623,10 @@
     <data name="Gross_Monthly" xml:space="preserve">
         <value>Брута штомесяц (Нэта + VAT)</value>
     </data>
+    <data name="SEO_Footer_Title" xml:space="preserve">
+        <value>Калькулятар B2B для IT-спецыялістаў і JDG у Польшчы</value>
+    </data>
+    <data name="SEO_Footer_Text" xml:space="preserve">
+        <value>Выкарыстоўвайце бясплатны калькулятар B2B для разліку заробку нэта. Параўнайце формы падаткаабкладання: Рычалт, Лінейны падатак і Шкалу падаткаў. Разлічыце ZUS і VAT на бягучы год. Лепшы інструмент для фрылансераў і IT-спецыялістаў, якія пачынаюць бізнес у Польшчы.</value>
+    </data>
 </root>

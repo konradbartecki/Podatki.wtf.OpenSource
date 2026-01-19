@@ -12,12 +12,12 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="PageTitle" xml:space="preserve">
-        <value>B2B tax calculator for Poland {0}</value>
+        <value>B2B Calculator Poland {0} - Tax &amp; Salary - Podatki.wtf</value>
     </data>
     <data name="Keywords" xml:space="preserve">
-        <value>Tax calculator, Poland, B2B, contractor, business, jdg, after tax, self-employed</value>
+        <value>B2B Calculator Poland, Tax Calculator Poland, Net Salary Poland, Polish Tax Calculator, Self-Employed Poland, JDG Calculator, B2B Contract, VAT Poland</value>
     </data>
     <data name="Description" xml:space="preserve">
-        <value>Tax calculator {0} for B2B contractors. Compare rates hourly, daily, monthly with days off and in multiple currencies.</value>
+        <value>Poland B2B Tax Calculator {0}. Calculate Net Salary, VAT, and ZUS for Self-Employed (JDG). Compare Lump Sum vs Linear Tax. Optimize your Polish taxes.</value>
     </data>
 </root>
