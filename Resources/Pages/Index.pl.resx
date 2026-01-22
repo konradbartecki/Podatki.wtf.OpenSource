@@ -275,6 +275,9 @@
     <data name="Sickness_Insurance" xml:space="preserve">
         <value>Składka chorobowa</value>
     </data>
+    <data name="Total_Social_Insurance_Per_Month" xml:space="preserve">
+        <value>Składki społeczne łącznie</value>
+    </data>
     <data name="Total_Insurance_Per_Month" xml:space="preserve">
         <value>Składek ZUS łącznie</value>
     </data>
@@ -426,9 +429,96 @@
         <value>Brutto miesięcznie (Netto + VAT)</value>
     </data>
     <data name="SEO_Footer_Title" xml:space="preserve">
-        <value>Kalkulator B2B dla Programistów IT i JDG</value>
+        <value>Kalkulator B2B 2026 dla Programistów IT, Lekarzy i JDG</value>
     </data>
     <data name="SEO_Footer_Text" xml:space="preserve">
-        <value>Skorzystaj z darmowego kalkulatora B2B, aby obliczyć swoje wynagrodzenie netto. Porównaj formy opodatkowania: Ryczałt, Podatek Liniowy i Skalę Podatkową. Sprawdź ile zapłacisz ZUS i VAT w tym roku. Idealne narzędzie dla samozatrudnionych, freelancerów i specjalistów IT w Polsce.</value>
+        <value>Skorzystaj z darmowego kalkulatora B2B 2026, aby obliczyć swoje wynagrodzenie netto. Porównaj formy opodatkowania: Ryczałt, Podatek Liniowy i Skalę Podatkową. Sprawdź ile zapłacisz ZUS i VAT w 2026 roku. Idealne narzędzie dla samozatrudnionych, freelancerów, specjalistów IT i lekarzy w Polsce.</value>
+    </data>
+    <data name="FAQ_Title" xml:space="preserve">
+        <value>Najczęściej Zadawane Pytania</value>
+    </data>
+    <data name="FAQ_Q1" xml:space="preserve">
+        <value>Czym jest B2B w Polsce i jak to działa?</value>
+    </data>
+    <data name="FAQ_A1" xml:space="preserve">
+        <value>B2B (Business to Business) w Polsce oznacza pracę jako samozatrudniony przedsiębiorca poprzez własną firmę (jednoosobowa działalność gospodarcza - JDG). Zamiast umowy o pracę (UoP), wystawiasz fakturę klientowi za usługi. Daje to elastyczność w wyborze formy opodatkowania i potencjalnie niższe stawki podatkowe, ale sam odpowiadasz za opłacanie składek ZUS.</value>
+    </data>
+    <data name="FAQ_Q2" xml:space="preserve">
+        <value>Jakie są różnice między Ryczałtem, Podatkiem Liniowym a Skalą Podatkową?</value>
+    </data>
+    <data name="FAQ_A2" xml:space="preserve">
+        <value>Skala podatkowa: Stawki progresywne 12% (do 120 000 PLN) i 32% powyżej, z kwotą wolną 30 000 PLN. Najlepsza dla niższych dochodów. Podatek liniowy: Stała stawka 19% od dochodu minus koszty, bez kwoty wolnej. Najlepszy dla dochodów powyżej ok. 150 000 PLN/rok. Ryczałt: Podatek od przychodu (nie dochodu) ze stawkami od 2% do 17% w zależności od zawodu (np. 12% dla programistów IT). Brak odliczenia kosztów, ale często najniższa efektywna stawka dla IT.</value>
+    </data>
+    <data name="FAQ_Q3" xml:space="preserve">
+        <value>Ile wynosi ZUS dla samozatrudnionych w Polsce w 2026 roku?</value>
+    </data>
+    <data name="FAQ_A3" xml:space="preserve">
+        <value>W 2026 roku całkowity ZUS (społeczny + zdrowotny) dla ryczałtowców wynosi od 2425 PLN do 3422 PLN miesięcznie w zależności od rocznych przychodów: do 60 000 PLN/rok = 2425 PLN/miesiąc, 60 000-300 000 PLN/rok = 2757 PLN/miesiąc, powyżej 300 000 PLN/rok = 3422 PLN/miesiąc. Nowi przedsiębiorcy mogą korzystać z preferencyjnego ZUS (ok. 30% normalnych składek społecznych) przez pierwsze 24 miesiące lub ulgi na start (tylko składka zdrowotna ~498 PLN) przez pierwsze 6 miesięcy.</value>
+    </data>
+    <data name="FAQ_Q4" xml:space="preserve">
+        <value>Jak obliczyć realny dochód netto jako kontraktora B2B?</value>
+    </data>
+    <data name="FAQ_A4" xml:space="preserve">
+        <value>Twój realny dochód netto to kwota brutto faktury minus: składki społeczne ZUS, składka zdrowotna, podatek dochodowy (PIT) i koszty działalności. Ten kalkulator wykonuje wszystkie obliczenia za Ciebie - wystarczy podać stawkę godzinową, dzienną lub miesięczną i wybrać formę opodatkowania. Pamiętaj o uwzględnieniu niepłatnych dni urlopu przy stawkach godzinowych/dziennych, ponieważ kontraktorzy B2B nie mają płatnego urlopu jak pracownicy etatowi.</value>
+    </data>
+    <data name="FAQ_Q5" xml:space="preserve">
+        <value>Jaka jest efektywna stawka podatkowa dla kontraktorów B2B w Polsce?</value>
+    </data>
+    <data name="FAQ_A5" xml:space="preserve">
+        <value>Dla większości kontraktorów B2B na ryczałcie efektywna łączna stawka podatkowa (ZUS + PIT) wynosi około 20% i jest degresywna - im więcej zarabiasz, tym niższa efektywna stawka. Dzieje się tak, ponieważ składki ZUS to kwoty stałe, nie procenty. Wraz ze wzrostem dochodu ZUS stanowi mniejszą część, a efektywna stawka zbliża się do stawki ryczałtu (8,5% dla testerów IT, 12% dla programistów, 14% dla medyków, 15% dla innych profesjonalistów, 17% dla wolnych zawodów). Osoby o wysokich dochodach mogą osiągnąć efektywne stawki nawet 15-18%.</value>
+    </data>
+    <data name="FAQ_Q6" xml:space="preserve">
+        <value>Jaka jest najlepsza forma opodatkowania dla lekarzy w Polsce?</value>
+    </data>
+    <data name="FAQ_A6" xml:space="preserve">
+        <value>Lekarze i pracownicy służby zdrowia mogą korzystać z ryczałtu ze stawką 14% od przychodu. Jest to często najbardziej korzystna opcja, ponieważ usługi medyczne mają zazwyczaj niskie koszty działalności. Całkowity miesięczny ZUS dla lekarzy na ryczałcie w 2026 wynosi od 2425 PLN do 3422 PLN w zależności od rocznych przychodów. Jeśli masz znaczące koszty (sprzęt, wynajem gabinetu, personel), podatek liniowy 19% może być lepszy, bo pozwala na odliczenie kosztów. Użyj tego kalkulatora, aby porównać obie opcje z Twoimi rzeczywistymi liczbami.</value>
+    </data>
+    <data name="FAQ_Q7" xml:space="preserve">
+        <value>Ile odkładam na emeryturę ze składek ZUS?</value>
+    </data>
+    <data name="FAQ_A7_Intro" xml:space="preserve">
+        <value>Twoje składki ZUS zawierają oszczędności emerytalne obliczane jako 19,52% od zadeklarowanej podstawy. W {0} roku wynagrodzenie referencyjne do ZUS wynosi {1} PLN. Oto jak zmieniają się Twoje oszczędności emerytalne w zależności od podstawy ZUS:</value>
+    </data>
+    <data name="FAQ_A7_Base" xml:space="preserve">
+        <value>Podstawa wymiaru</value>
+    </data>
+    <data name="FAQ_A7_Monthly" xml:space="preserve">
+        <value>Składka emerytalna</value>
+    </data>
+    <data name="FAQ_A7_10Years" xml:space="preserve">
+        <value>Składki 10 lat</value>
+    </data>
+    <data name="FAQ_A7_Standard" xml:space="preserve">
+        <value>standardowa</value>
+    </data>
+    <data name="FAQ_A7_Maximum" xml:space="preserve">
+        <value>maksymalna</value>
+    </data>
+    <data name="FAQ_A7_SocialZus" xml:space="preserve">
+        <value>ZUS społeczny</value>
+    </data>
+    <data name="FAQ_A7_TotalZus" xml:space="preserve">
+        <value>Całkowity ZUS</value>
+    </data>
+    <data name="FAQ_A7_Note" xml:space="preserve">
+        <value>Wyższa podstawa ZUS oznacza wyższe miesięczne koszty, ale też większe oszczędności emerytalne. Przy preferencyjnym ZUS (30% podstawy) przez pierwsze 24 miesiące składki są proporcjonalnie niższe.</value>
+    </data>
+    <data name="FAQ_A7_HealthNote2" xml:space="preserve">
+        <value>Całkowity ZUS zawiera składkę zdrowotną {0} PLN/mies. na podstawie Twoich ustawień powyżej.</value>
+    </data>
+    <data name="FAQ_A7_HealthSickNote" xml:space="preserve">
+        <value>Całkowity ZUS zawiera składkę zdrowotną ({0} PLN) i chorobową ({1} PLN) na podstawie Twoich ustawień powyżej.</value>
+    </data>
+    <data name="FAQ_Q8" xml:space="preserve">
+        <value>Jak działa leasing samochodu dla samozatrudnionych w Polsce?</value>
+    </data>
+    <data name="FAQ_A8" xml:space="preserve">
+        <value>Leasing operacyjny pozwala na zaliczanie rat do kosztów uzyskania przychodu, co obniża podstawę opodatkowania. Od 2026 r. wprowadzono nowe limity dla pojazdów wprowadzonych do ewidencji po 31 grudnia 2025 r.: 225 000 zł dla aut elektrycznych i wodorowych, 150 000 zł dla aut z emisją CO₂ &lt; 50 g/km oraz 100 000 zł dla pozostałych aut spalinowych. Samochody nabyte wcześniej rozliczane są na starych zasadach. Odliczenie VAT wynosi standardowo 50% (użytek mieszany) lub 100% (wyłącznie cele służbowe + ewidencja przebiegu).</value>
+    </data>
+    <data name="FAQ_Q9" xml:space="preserve">
+        <value>Jak działa VAT dla B2B i JDG w Polsce?</value>
+    </data>
+    <data name="FAQ_A9" xml:space="preserve">
+        <value>VAT w Polsce wynosi 23% dla większości usług. Jako vatowiec wystawiasz fakturę netto + VAT, czyli Twój klient płaci Ci stawkę netto powiększoną o 23% VAT. Ten VAT odprowadzasz do urzędu skarbowego, ale możesz odliczyć VAT od swoich zakupów firmowych (sprzęt, leasing, usługi). Możesz też skorzystać ze zwolnienia z VAT (do 200 000 PLN rocznego przychodu) - wtedy nie doliczasz VAT, ale też go nie odliczasz. Dla klientów z UE stosuje się odwrotne obciążenie (0% VAT), dla klientów spoza UE usługi są zazwyczaj zwolnione. Większość kontraktorów B2B zostaje vatowcami, bo pozwala to odzyskiwać VAT od kosztów. Użyj przełącznika VAT w kalkulatorze, aby zobaczyć wpływ na Twój dochód.</value>
     </data>
 </root>

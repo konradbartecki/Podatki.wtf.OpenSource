@@ -269,6 +269,9 @@
     <data name="Sickness_Insurance" xml:space="preserve">
         <value>Sickness insurance</value>
     </data>
+    <data name="Total_Social_Insurance_Per_Month" xml:space="preserve">
+        <value>Total social insurance</value>
+    </data>
     <data name="Total_Insurance_Per_Month" xml:space="preserve">
         <value>Total monthly insurance</value>
     </data>
@@ -423,9 +426,96 @@
         <value>Gross Monthly (Net + VAT)</value>
     </data>
     <data name="SEO_Footer_Title" xml:space="preserve">
-        <value>B2B Calculator Poland for IT Contractors &amp; Self-Employed</value>
+        <value>B2B Calculator Poland 2026 for IT, Doctors &amp; Self-Employed</value>
     </data>
     <data name="SEO_Footer_Text" xml:space="preserve">
-        <value>Use this free B2B calculator to compute your net salary in Poland. Compare taxation forms: Lump Sum (Ryczałt), Linear Tax, and Tax Scale. Calculate ZUS and VAT for the current year. The best tool for expats, freelancers, and IT professionals starting a business in Poland.</value>
+        <value>Use this free B2B calculator 2026 to compute your net salary in Poland. Compare taxation forms: Lump Sum (Ryczałt), Linear Tax, and Tax Scale. Calculate ZUS and VAT for 2026. The best tool for expats, freelancers, IT professionals, and doctors starting a business in Poland.</value>
+    </data>
+    <data name="FAQ_Title" xml:space="preserve">
+        <value>Frequently Asked Questions</value>
+    </data>
+    <data name="FAQ_Q1" xml:space="preserve">
+        <value>What is B2B in Poland and how does it work?</value>
+    </data>
+    <data name="FAQ_A1" xml:space="preserve">
+        <value>B2B (Business to Business) in Poland means working as a self-employed contractor through your own company (sole proprietorship or JDG - Jednoosobowa Działalność Gospodarcza). Instead of an employment contract (UoP), you invoice your client for services. This gives you flexibility in choosing your taxation form and potentially lower tax rates, but you're responsible for paying your own ZUS social insurance contributions.</value>
+    </data>
+    <data name="FAQ_Q2" xml:space="preserve">
+        <value>What are the differences between Lump Sum (Ryczałt), Linear Tax, and Tax Scale in Poland?</value>
+    </data>
+    <data name="FAQ_A2" xml:space="preserve">
+        <value>Tax Scale (Skala podatkowa): Progressive rates of 12% (up to 120,000 PLN) and 32% above, with a 30,000 PLN tax-free amount. Best for lower incomes. Linear Tax: Flat 19% rate on income minus costs, no tax-free amount. Best for higher incomes above ~150,000 PLN/year. Lump Sum (Ryczałt): Tax on revenue (not profit) at rates from 2% to 17% depending on profession (e.g., 12% for IT programmers). No cost deductions but often the lowest effective tax rate for IT professionals.</value>
+    </data>
+    <data name="FAQ_Q3" xml:space="preserve">
+        <value>How much is ZUS for self-employed in Poland in 2026?</value>
+    </data>
+    <data name="FAQ_A3" xml:space="preserve">
+        <value>In 2026, total ZUS (social + health insurance) for self-employed Lump Sum taxpayers ranges from 2,425 PLN to 3,422 PLN per month depending on annual revenue: up to 60,000 PLN/year = 2,425 PLN/month, 60,000-300,000 PLN/year = 2,757 PLN/month, over 300,000 PLN/year = 3,422 PLN/month. New entrepreneurs can use preferential ZUS (about 30% of regular social contributions) for the first 24 months, or start relief (only health insurance ~498 PLN) for the first 6 months.</value>
+    </data>
+    <data name="FAQ_Q4" xml:space="preserve">
+        <value>How do I calculate my real net income as a B2B contractor?</value>
+    </data>
+    <data name="FAQ_A4" xml:space="preserve">
+        <value>Your real net income is your gross invoice amount minus: ZUS social contributions, health insurance, income tax (PIT), and business costs. This calculator does all the math for you - just enter your hourly, daily, or monthly rate and select your taxation form. Remember to account for unpaid vacation days if you charge hourly/daily, as B2B contractors don't get paid leave like employees.</value>
+    </data>
+    <data name="FAQ_Q5" xml:space="preserve">
+        <value>What is the effective tax rate for B2B contractors in Poland?</value>
+    </data>
+    <data name="FAQ_A5" xml:space="preserve">
+        <value>For most B2B contractors using Lump Sum (Ryczałt), the effective total tax rate (ZUS + PIT combined) is around 20% and is actually degressive - the more you earn, the lower your effective rate becomes. This happens because ZUS contributions are fixed amounts, not percentages. As your income grows, ZUS becomes a smaller portion, and your effective rate approaches your flat Lump Sum tax rate (8.5% for IT testers, 12% for programmers, 14% for healthcare, 15% for other professionals, 17% for freelancers). High earners can achieve effective rates as low as 15-18%.</value>
+    </data>
+    <data name="FAQ_Q6" xml:space="preserve">
+        <value>What is the best taxation form for doctors and healthcare professionals in Poland?</value>
+    </data>
+    <data name="FAQ_A6" xml:space="preserve">
+        <value>Doctors and healthcare professionals can use Lump Sum (Ryczałt) at 14% tax rate on revenue. This is often the most tax-efficient option since medical services typically have low business costs. Total monthly ZUS for doctors on Ryczałt in 2026 ranges from 2,425 PLN to 3,422 PLN depending on annual revenue. If you have significant costs (equipment, office rent, staff), Linear Tax at 19% might be better as it allows cost deductions. Use this calculator to compare both options with your actual numbers.</value>
+    </data>
+    <data name="FAQ_Q7" xml:space="preserve">
+        <value>How much pension am I saving with ZUS contributions?</value>
+    </data>
+    <data name="FAQ_A7_Intro" xml:space="preserve">
+        <value>Your ZUS contributions include pension savings (emerytalne) calculated as 19.52% of your declared base. In {0}, the reference salary for ZUS calculations is {1} PLN. Here's how your pension savings vary by ZUS base rate:</value>
+    </data>
+    <data name="FAQ_A7_Base" xml:space="preserve">
+        <value>Declared Base</value>
+    </data>
+    <data name="FAQ_A7_Monthly" xml:space="preserve">
+        <value>Pension Contribution</value>
+    </data>
+    <data name="FAQ_A7_10Years" xml:space="preserve">
+        <value>10-Year Total</value>
+    </data>
+    <data name="FAQ_A7_Standard" xml:space="preserve">
+        <value>standard</value>
+    </data>
+    <data name="FAQ_A7_Maximum" xml:space="preserve">
+        <value>maximum</value>
+    </data>
+    <data name="FAQ_A7_SocialZus" xml:space="preserve">
+        <value>Social ZUS</value>
+    </data>
+    <data name="FAQ_A7_TotalZus" xml:space="preserve">
+        <value>Total ZUS</value>
+    </data>
+    <data name="FAQ_A7_Note" xml:space="preserve">
+        <value>Higher ZUS base rates mean higher monthly costs but also larger pension savings. With preferential ZUS (30% base) during the first 24 months, contributions are proportionally lower.</value>
+    </data>
+    <data name="FAQ_A7_HealthNote2" xml:space="preserve">
+        <value>Total ZUS includes health insurance of {0} PLN/month based on your current settings above.</value>
+    </data>
+    <data name="FAQ_A7_HealthSickNote" xml:space="preserve">
+        <value>Total ZUS includes health insurance ({0} PLN) and sickness insurance ({1} PLN) based on your current settings above.</value>
+    </data>
+    <data name="FAQ_Q8" xml:space="preserve">
+        <value>How does car leasing work for self-employed in Poland?</value>
+    </data>
+    <data name="FAQ_A8" xml:space="preserve">
+        <value>Operating lease allows you to include monthly payments in tax-deductible costs, which reduces your taxable income. From 2026, new deduction limits apply to vehicles registered after December 31, 2025: 225,000 PLN for electric and hydrogen cars, 150,000 PLN for cars with CO₂ emissions &lt; 50 g/km, and 100,000 PLN for other combustion cars. Vehicles acquired earlier follow previous rules. VAT deduction is standard 50% (mixed use) or 100% (strictly business use + mileage log).</value>
+    </data>
+    <data name="FAQ_Q9" xml:space="preserve">
+        <value>How does VAT work for B2B and self-employed in Poland?</value>
+    </data>
+    <data name="FAQ_A9" xml:space="preserve">
+        <value>VAT in Poland is 23% for most services. As a VAT payer, you invoice net + VAT, meaning your client pays your net rate plus 23% VAT on top. You transfer this VAT to the tax office, but can deduct VAT from your business purchases (equipment, leasing, services). You can also use VAT exemption (up to 200,000 PLN annual revenue) - then you don't add VAT, but can't deduct it either. For EU clients, reverse charge applies (0% VAT); for non-EU clients, services are typically VAT-exempt. Most B2B contractors become VAT payers as it allows recovering VAT from costs. Use the VAT toggle in this calculator to see how it affects your income.</value>
     </data>
 </root>
