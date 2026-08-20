@@ -21,10 +21,7 @@
     <value>Што новага</value>
   </data>
   <data name="2026_01_Item1" xml:space="preserve">
-    <value>Калькулятар ПДВ - разлік ПДВ з даходу і выдаткаў з рознымі стаўкамі (23%, 8%, 5%, 0%)</value>
-  </data>
-  <data name="2026_01_Item2" xml:space="preserve">
-    <value>Сумеснае дэкларавання з сужэнцам - увядзіце даход партнёра для дакладных разлікаў</value>
+    <value>Калькулятар VAT — разлік VAT з даходаў і выдаткаў з рознымі стаўкамі (23%, 8%, 5%, 0%)</value>
   </data>
   <data name="2026_01_Item3" xml:space="preserve">
     <value>Падатковы год 2026 з абноўленымі стаўкамі і парогамі</value>
@@ -44,13 +41,28 @@
   <data name="2023_08_Item1" xml:space="preserve">
     <value>Шматмоўная падтрымка: польская, англійская, украінская, беларуская</value>
   </data>
-  <data name="2023_08_Item2" xml:space="preserve">
-    <value>Канвертацыя валют у выніках (EUR, USD, UAH)</value>
-  </data>
   <data name="2022_02_Item1" xml:space="preserve">
     <value>Польскі Лад 2.0 (ліпень 2022) - стаўка PIT 12% у першым парозе</value>
   </data>
   <data name="2022_02_Item2" xml:space="preserve">
     <value>Выдалены разлік ільготы для сярэдняга класа</value>
+  </data>
+  <data name="2021_Item1" xml:space="preserve">
+    <value>Дадана падтрымка «Mały ZUS Plus» (унёскі на аснове даходу)</value>
+  </data>
+  <data name="2021_Item2" xml:space="preserve">
+    <value>Абноўленыя стаўкі рычалту на 2021 год</value>
+  </data>
+  <data name="2020_Item1" xml:space="preserve">
+    <value>Дадана падтрымка IP Box (стаўка PIT 5%) для распрацоўшчыкаў</value>
+  </data>
+  <data name="2020_Item2" xml:space="preserve">
+    <value>Абнаўленне сумы, вольнай ад падатку, на 2020 год</value>
+  </data>
+  <data name="2019_Item1" xml:space="preserve">
+    <value>Першы рэліз Podatki.wtf</value>
+  </data>
+  <data name="2019_Item2" xml:space="preserve">
+    <value>Падтрымка стаўкі PIT 17% і «PIT для маладых» (нулявы PIT)</value>
   </data>
 </root>

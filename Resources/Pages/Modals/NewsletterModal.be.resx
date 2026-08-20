@@ -118,11 +118,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Увядзіце адрас e-mail, на які вы хочаце атрымліваць інфармацыю аб новых прадуктах.</value>
+    <value>Увядзіце адрас электроннай пошты, на які вы хочаце атрымліваць навіны пра podatki.wtf.</value>
     <comment/>
   </data>
   <data name="Error_IncorrectEmail" xml:space="preserve">
-    <value>Калі ласка, ўвядзіце правільны e-mail</value>
+    <value>Увядзіце правільны адрас электроннай пошты</value>
     <comment/>
   </data>
   <data name="PleaseConfirm" xml:space="preserve">
@@ -138,11 +138,11 @@
     <comment/>
   </data>
   <data name="Footer" xml:space="preserve">
-    <value>Падпісваючыся на рассылку, вы згаджаецеся атрымліваць інфармацыю аб новых прадуктах, акцыях, прадуктах і паслугах «podatki.wtf» і «Konrad Bartecki Development» NIP 505-012-6591</value>
+    <value>Падпісваючыся на рассылку, вы згаджаецеся атрымліваць інфармацыю аб навінах, акцыях, новых прадуктах і паслугах «podatki.wtf» і «Konrad Bartecki Development» NIP 505-012-6591</value>
     <comment/>
   </data>
   <data name="Placeholder" xml:space="preserve">
-    <value>Адрас e-mail</value>
+    <value>Адрас электроннай пошты</value>
     <comment/>
   </data>
 </root>

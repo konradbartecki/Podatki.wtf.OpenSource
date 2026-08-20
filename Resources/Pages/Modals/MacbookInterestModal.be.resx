@@ -11,7 +11,64 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
+    <data name="GrossPerMonth" xml:space="preserve">
+        <value>брута / месяц</value>
+    </data>
+    <data name="NetPerMonth" xml:space="preserve">
+        <value>нэта / месяц</value>
+    </data>
     <data name="Contract" xml:space="preserve">
-        <value>📅 Contract Duration:</value>
+        <value>📅 Тэрмін кантракта:</value>
+    </data>
+    <data name="ContractValue" xml:space="preserve">
+        <value>1 месяц</value>
+    </data>
+    <data name="Error_IncorrectPhone" xml:space="preserve">
+        <value>Увядзіце правільны нумар тэлефона</value>
+    </data>
+    <data name="Error_Unknown" xml:space="preserve">
+        <value>На жаль, нешта не атрымалася, паўтарыце спробу пазней або звяжыцеся з намі</value>
+    </data>
+    <data name="Insurance" xml:space="preserve">
+        <value>🛡️ Страхоўка:</value>
+    </data>
+    <data name="InsuranceValue" xml:space="preserve">
+        <value>Уключана (пакрывае выпадковыя пашкоджанні)</value>
+    </data>
+    <data name="Interested" xml:space="preserve">
+        <value>Мне цікава</value>
+    </data>
+    <data name="Invoice" xml:space="preserve">
+        <value>💵 Рахунак з VAT да адлічэння</value>
+    </data>
+    <data name="KeyboardLayout" xml:space="preserve">
+        <value>⌨️ Раскладка клавіятуры:</value>
+    </data>
+    <data name="DownloadGeekBench" xml:space="preserve">
+        <value>Сцягнуць GeekBench</value>
+    </data>
+    <data name="Delivery" xml:space="preserve">
+        <value>🚚 Дастаўка па Варшаве на працягу 1 гадзіны праз Uber</value>
+    </data>
+    <data name="CompareAgainstYourPc" xml:space="preserve">
+        <value>Параўнайце са сваім камп'ютарам</value>
+    </data>
+    <data name="Placeholder" xml:space="preserve">
+        <value>Нумар тэлефона</value>
+    </data>
+    <data name="Thanks" xml:space="preserve">
+        <value>Дзякуй! Гэта ўсё ✅ Мы звяжамся з вамі як мага хутчэй.</value>
+    </data>
+    <data name="Close" xml:space="preserve">
+        <value>Закрыць</value>
+    </data>
+    <data name="StorageSpace" xml:space="preserve">
+        <value>💾 Аб'ём сховішча:</value>
+    </data>
+    <data name="Title" xml:space="preserve">
+        <value>Мы з вамі звяжамся</value>
+    </data>
+    <data name="PlaceholderName" xml:space="preserve">
+        <value>Ваша імя</value>
     </data>
 </root>
