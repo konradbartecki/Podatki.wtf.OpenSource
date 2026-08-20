@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Тлумачэнні пра выходныя дні</value>
+    <value>Тлумачэнне пра дні водпуску</value>
     <comment/>
   </data>
   <data name="Content_Line1" xml:space="preserve">
-    <value>Самыя папулярныя кантракты звычайна прадугледжваюць пагадзінную/дзённую аплату працы і неаплачваемыя водпускі.</value>
+    <value>Самыя папулярныя кантракты звычайна прадугледжваюць пагадзінную/дзённую аплату працы і неаплачваны водпуск.</value>
     <comment/>
   </data>
   <data name="Content_Line2" xml:space="preserve">
-    <value>Рэдка некаторыя кампаніі дамаўляюцца аб фіксаванай штомесячнай стаўцы. напрыклад, 15 000 злотых кожны месяц і аплачваемы водпуск, напрыклад, 20 дзён.</value>
+    <value>Часам некаторыя кампаніі дамаўляюцца аб фіксаванай штомесячнай стаўцы, напрыклад 15 000 злотых кожны месяц, прапаноўваючы пры гэтым аплачваны водпуск, скажам, 20 дзён.</value>
     <comment/>
   </data>
   <data name="Content_Line3" xml:space="preserve">
@@ -134,11 +134,11 @@
     <comment/>
   </data>
   <data name="Content_Line4" xml:space="preserve">
-    <value>- 10 000 PLN/м + 20 дзён аплачваемага водпуску = 64,66 PLN/гадз.</value>
+    <value>- 10 000 PLN/м + 20 дзён аплачванага водпуску = 64,66 PLN/гадз.</value>
     <comment/>
   </data>
   <data name="Content_Line5" xml:space="preserve">
-    <value>- 10 000 PLN/м + 40 дзён аплачваемага водпуску = 70,76 PLN/гадз. (бо працуеце менш, але надалей атрымліваеце 10 тыс. за месяц)</value>
+    <value>- 10 000 PLN/м + 40 дзён аплачванага водпуску = 70,76 PLN/гадз. (бо працуеце менш, але надалей атрымліваеце 10 тыс. за месяц)</value>
     <comment/>
   </data>
 </root>

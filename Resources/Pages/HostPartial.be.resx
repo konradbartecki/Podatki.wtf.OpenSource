@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="PageTitle" xml:space="preserve">
-    <value>Калькулятар B2B Польскі Лад {0} - podatki.wtf</value>
+    <value>Калькулятар B2B Польшча {0} - Падаткі і заробак - Podatki.wtf</value>
     <comment/>
   </data>
   <data name="Keywords" xml:space="preserve">
-    <value>Калькулятар, B2B, кантрактар, бізнэс, фрылансер, jdg, ІП, на рукі, самазанятасць, пасля падаткаў</value>
+    <value>Калькулятар B2B Польшча, падатковы калькулятар Польшча, заробак нэта, самазанятасць у Польшчы, JDG, кантракт B2B, VAT Польшча, рычалт, ZUS, на рукі</value>
     <comment/>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Калькулятар падатковы {0} для B2B JDG. Параўноўвай пагадзінныя, штодзённыя і штомесячныя стаўкі ў роўных валютах з улікам водпуску.</value>
+    <value>Калькулятар падаткаў B2B у Польшчы {0}. Разлічыце заробак нэта, VAT і ZUS для самазанятых (JDG). Параўнайце рычалт і лінейны падатак. Аптымізуйце свае польскія падаткі.</value>
     <comment/>
   </data>
 </root>
